@@ -1,5 +1,7 @@
 
-| Name | Michael Schultz | 
-|---|---|
-| Introduction | Hi! This is my GitHub introduction page. I am a junior at GMU in BAS Cybersecurity | 
-| Hobbies | I love playing basketball, video games, cooking and hiking. | 
+# This is for IT 304 on Tuesdays at 1:30 with Professor Myeong Lee. 
+
+# This repository is for the assignment "Setting up Github-based Websites"
+
+
+
