@@ -28,9 +28,10 @@ twitter_username:
 github_username:  raisschultz
 
 # Build settings
-theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
