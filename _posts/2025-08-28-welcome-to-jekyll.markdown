@@ -4,4 +4,23 @@ title:  "Hello World!"
 date:   2025-08-29 10:54:30 -0400
 categories: 
 ---
-First post testing out the "post" layout for Jekyll sites. An important thing to remember is the naming convention for "post" files - following YYYY-MM-DD-title.markdown
+###Some important commands to remember: 
+
+##To launch the local site: 
+
+bundle exec jekyll serve
+
+##In case the local repo is out of date: 
+
+git pull origin gh-pages
+
+##To push changes from the local repo: 
+
+git add . 
+
+git commit -m "Message"
+
+git push origin gh-pages
+
+
+
