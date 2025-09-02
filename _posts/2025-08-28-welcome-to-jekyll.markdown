@@ -23,5 +23,8 @@ git commit -m "Message"
 
 git push origin gh-pages
 
+### If I want to make some colored text: 
+
+<span style="color: purple;">!coloredtextgoesrighthere!</span>
 
 
