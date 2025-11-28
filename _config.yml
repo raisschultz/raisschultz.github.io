@@ -30,6 +30,7 @@ navbar-links:
     - Border Patrol Use: "https://raisschultz.github.io/exampletwo/"
 
 avatar: "/assets/img/avatar-temp.png"
+round-avatar: false 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
