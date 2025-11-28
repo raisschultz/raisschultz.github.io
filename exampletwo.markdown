@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Border Patrol Use 
-permalink: /exampletwo.markdown
+permalink: /exampletwo/
 ---
 ### Use of ALPRs by Border Patrol and ICE
 
