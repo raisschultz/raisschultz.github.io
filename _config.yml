@@ -29,6 +29,7 @@ navbar-links:
     - Flock Cameras: "https://raisschultz.github.io/exampleone/"
     - Border Patrol Use: "https://raisschultz.github.io/exampletwo/"
 
+avatar: "/assets/img/avatar-temp.png"
 # Build settings
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
