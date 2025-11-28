@@ -2,7 +2,7 @@
 layout: post
 title: Benefits 
 subtitle: benefits of the use of alpr technology
-date:   2025-11-27 2x:xx:30 -0400
+date:   2025-11-27 23:10:30 -0400
 categories: [discussion of technology, benefits]
 author: aas
 ---
