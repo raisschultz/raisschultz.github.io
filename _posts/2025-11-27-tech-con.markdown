@@ -1,0 +1,10 @@
+---
+layout: post
+title: Technological Concerns
+subtitle: Technological Concerns with the ALPR technology
+date:   2025-11-27 23:02:30 -0400
+categories: [discussion of technology, concern]
+author: asdbs
+---
+## Technological Concerns and Implications with the use of ALPR technology
+what else can it be capturing and storing inadvertendly? 
