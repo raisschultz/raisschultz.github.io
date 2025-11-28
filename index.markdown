@@ -6,5 +6,6 @@ layout: home
 navbar-links:
   Technology Examples:
     - Flock Cameras: "https://raisschultz.github.io/exampleone.markdown"
+    - Border Patrol Use: "https://raisschultz.github.io/exampletwo.markdown"
 
 ---
