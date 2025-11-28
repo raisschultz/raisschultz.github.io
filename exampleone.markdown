@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Flock Camera ALPRs in Virginia
 ---
 ### Example Use of ALPR Technology - Flock Cameras In Virginia
 
