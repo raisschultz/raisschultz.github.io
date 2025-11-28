@@ -26,8 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 navbar-links:
   Technology Examples:
-    - Flock Cameras: "https://raisschultz.github.io/exampleone"
-    - Border Patrol Use: "https://raisschultz.github.io/exampletwo"
+    - Flock Cameras: "https://raisschultz.github.io/exampleone/"
+    - Border Patrol Use: "https://raisschultz.github.io/exampletwo/"
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@6.0.1
