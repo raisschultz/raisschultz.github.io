@@ -27,6 +27,7 @@ url: "https://raisschultz.github.io" # the base hostname & protocol for your sit
 navbar-links:
   Technology Examples:
     - Flock Cameras: "https://raisschultz.github.io/exampleone.markdown"
+    - Border Patrol Use: "https://raisschultz.github.io/exampletwo.markdown"
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@6.0.1
