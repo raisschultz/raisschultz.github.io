@@ -5,6 +5,6 @@ date:   2025-11-27 21:00:30 -0400
 categories: 
 ---
 
-##Team Members
+## Team Members
 
-Austin Churra | Madeleine Gordillo | Kian Mojami | Michael Schultz
+Austin Churra - Madeleine Gordillo - Kian Mojami - Michael Schultz
