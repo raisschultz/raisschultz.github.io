@@ -22,7 +22,7 @@ title: Automatic License Plate Readers
 author: Austin Churra, Madeleine Gordillo, Kian Mojami, Michael Schultz
 description: >- # this means to ignore newlines until "baseurl:"
   This site is created for the IT304 Final Project by Team 1. This project outlines the automatic license plate reader (ALPR) technology, and the ethical debates surrounding their use. 
-baseurl: "https://raisschultz.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 navbar-links: # drop down menus on nav par on every page except home page
   Technology Examples:
