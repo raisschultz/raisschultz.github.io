@@ -10,3 +10,5 @@ author: insert here
 
 potentially GMU student lens - use photos of anti flock sentiment stickers on campus
 other groups that disagree with use of alprs as well
+
+![AntiFlockSentiment@GMU](https://raisschultz.github.io/assets/img/antiflockgmu1)
