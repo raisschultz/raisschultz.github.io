@@ -1,5 +1,6 @@
 ---
 layout: page
+show-avatar: false
 title: Border Patrol Use 
 permalink: /borderpatrolalprs/
 ---
