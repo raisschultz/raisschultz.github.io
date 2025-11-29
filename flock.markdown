@@ -1,5 +1,6 @@
 ---
 layout: page
+show-avatar: false
 title: Flock Camera ALPRs in Virginia
 permalink: /flockalprs/
 cover-img: "/assets/img/antiflockgmu1"
