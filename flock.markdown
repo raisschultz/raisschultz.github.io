@@ -2,6 +2,7 @@
 layout: page
 title: Flock Camera ALPRs in Virginia
 permalink: /flockalprs/
+cover-img: "/assets/img/antiflockgmu1"
 ---
 ### Example Use of ALPR Technology - Flock Cameras In Virginia
 
