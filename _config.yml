@@ -24,10 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is created for the IT304 Final Project by Team 1. This project outlines the automatic license plate reader (ALPR) technology, and the ethical debates surrounding their use. 
 baseurl: "https://raisschultz.github.io" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-navbar-links:
+navbar-links: # drop down menus on nav par on every page except home page
+
   Technology Examples:
-    - Flock Cameras: "https://raisschultz.github.io/exampleone/"
-    - Border Patrol Use: "https://raisschultz.github.io/exampletwo/"
+    - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
+    - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
 
 avatar: "/assets/img/avatar-temp.png"
 round-avatar: false 
