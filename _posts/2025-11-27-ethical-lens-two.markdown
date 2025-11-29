@@ -5,7 +5,6 @@ subtitle: Description of ethical lens against ALPR technology
 date:   2025-11-27 22:10:30 -0400
 categories: [ethical lens, negative]
 author: insert here
-thumbnail-img: "/assets/img/antiflockgmu2"
 ---
 ## Ethical Lens
 
