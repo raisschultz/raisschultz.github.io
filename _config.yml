@@ -32,10 +32,6 @@ navbar-links:
     - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
     - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
 
-# Site logo
-#avatar: "/assets/img/avatar-temp.png"
-#round-avatar: false 
-
 excerpt-length: 30 # Length of blog posts displayed on home page in words
 
 # Modify the appearance of the page
