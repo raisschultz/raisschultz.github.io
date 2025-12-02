@@ -29,9 +29,27 @@ navbar-links: # drop down menus on nav par on every page except home page
     - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
     - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
 
+# Site logo
 avatar: "/assets/img/avatar-temp.png"
 round-avatar: false 
+
+excerpt-length: 30 # Length of blog posts displayed on home page in words
+
+# Modify the appearance of the page
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
 # Build settings
+
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
