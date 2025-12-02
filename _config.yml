@@ -36,17 +36,7 @@ round-avatar: false
 excerpt-length: 30 # Length of blog posts displayed on home page in words
 
 # Modify the appearance of the page
-page-col: "#3FD0C9"
-text-col: "#C1F6ED"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#449342"
-navbar-text-col: "#02353C"
-navbar-border-col: "#2EAF7D"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+
 
 # Build settings
 
