@@ -2,7 +2,7 @@
 layout: post
 title: Group Evaluation of ALPR Technology
 subtitle: final group evaluation of the benefits and concerns and implications of ALPR technology
-date:   2025-11-27 23:00:30 -0400
+date:   2025-11-27 22:00:30 -0400
 categories: [discussion of technology, conclusion]
 author: humbug
 ---
