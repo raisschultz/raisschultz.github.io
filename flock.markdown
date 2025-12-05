@@ -11,17 +11,17 @@ Flock Safety asserts that communities retain ownership of their data, and the co
 
 The legal framework surrounding ALPRs creates further concerns. Only a minority of states have comprehensive statutes governing retention periods, data sharing, or public access to ALPR data.<sup>6</sup> In some states, ALPR records are considered public, while in others they are explicitly exempt from freedom-of-information laws. This fragmented landscape means that drivers may have their movements recorded in one jurisdiction and later accessed in another under very different standards.  In some cities, concerns over data privacy and surveillance have led to cancellation of Flock’s ALPR contracts. For instance, in 2025 the City of Austin ended its contract with Flock Safety after sustained public criticism over mass surveillance and potential misuse of ALPR data; especially fears it could be shared with immigration authorities such as Immigration and Customs Enforcement (ICE) or used against marginalized communities.<sup>7</sup>
 
-<sup> 1 George Mason University Police Department, Flock Safety Transparency Portal, https://transparency.flocksafety.com/va-george-mason-university-campus-pd
+<sup> 1 George Mason University Police Department, Flock Safety Transparency Portal, https://transparency.flocksafety.com/va-george-mason-university-campus-pd </sup>
 
-2 Flock Safety, How Flock Safety Protects Resident Privacy, https://www.flocksafety.com/blog/how-flock-safety-protects-resident-privacy 
+<sup> 2 Flock Safety, How Flock Safety Protects Resident Privacy, https://www.flocksafety.com/blog/how-flock-safety-protects-resident-privacy 
 
-3 Kunle Falayi, “One sleepy Virginia town. Nearly 7 million hits on its surveillance network,” Virginia Center for Investigative Journalism (2025), https://www.whro.org/virginia-center-for-investigative-journalism/2025-09-17/va-flock-data-shared-millions-of-times 
+<sup> 3 Kunle Falayi, “One sleepy Virginia town. Nearly 7 million hits on its surveillance network,” Virginia Center for Investigative Journalism (2025), https://www.whro.org/virginia-center-for-investigative-journalism/2025-09-17/va-flock-data-shared-millions-of-times </sup>
 
-4 Flock Safety, 6 Myths About License Plate Readers, https://www.flocksafety.com/blog/6-myths-license-plate-readers-security-systems 
+<sup> 4 Flock Safety, 6 Myths About License Plate Readers, https://www.flocksafety.com/blog/6-myths-license-plate-readers-security-systems </sup>
 
-5 American Civil Liberties Union, Flock in Massachusetts and Updates, https://www.aclu.org/news/privacy-technology/flock-massachusetts-and-updates 
+<sup> 5 American Civil Liberties Union, Flock in Massachusetts and Updates, https://www.aclu.org/news/privacy-technology/flock-massachusetts-and-updates </sup>
 
-6 National Conference of State Legislatures, “Automated License Plate Readers: State Statutes,” https://www.ncsl.org/technology-and-communication/automated-license-plate-readers-state-statutes 
+<sup> 6 National Conference of State Legislatures, “Automated License Plate Readers: State Statutes,” https://www.ncsl.org/technology-and-communication/automated-license-plate-readers-state-statutes </sup>
 
-7 Andres Rendon, “Central Texas cities cut license plate reader programs amid community criticism,” Spectrum News (June 17, 2025), https://spectrumlocalnews.com/tx/austin/news/2025/06/17/no-more-austin-lprs </sup>
+<sup> 7 Andres Rendon, “Central Texas cities cut license plate reader programs amid community criticism,” Spectrum News (June 17, 2025), https://spectrumlocalnews.com/tx/austin/news/2025/06/17/no-more-austin-lprs </sup>
 
