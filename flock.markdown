@@ -3,7 +3,12 @@ layout: page
 title: Flock Camera ALPRs in Virginia
 permalink: /flockalprs/
 ---
-Flock Safety’s Automatic License Plate Readers (ALPRs) have become widespread across neighbourhoods, towns, cities, and communities across the United States, including around our very own campuses at George Mason. According to GMU Campus PD, there are currently 23 ALPRs in use around the Fairfax campus.<sup>1</sup> These cameras capture license plates, vehicle characteristics, and the date, time, and GPS coordinates of every passing vehicle, uploading this information to a centralized cloud database accessible to law enforcement agencies.<sup>2</sup> Local governments and law enforcement agencies adopt Flock’s system to enhance their investigations, and aid in their responses to stolen vehicles and other alerts. 
+Flock Safety’s Automatic License Plate Readers (ALPRs) have become widespread across neighbourhoods, towns, cities, and communities across the United States, including around our very own campuses at George Mason. According to GMU Campus PD, there are currently 23 ALPRs in use around the Fairfax campus.<sup>1</sup> 
+
+![VirginiaFlockStats](https://raisschultz.github.io/assets/img/virginiaflock.png)
+<sub>(WHRO)</sub>
+
+These cameras capture license plates, vehicle characteristics, and the date, time, and GPS coordinates of every passing vehicle, uploading this information to a centralized cloud database accessible to law enforcement agencies.<sup>2</sup> Local governments and law enforcement agencies adopt Flock’s system to enhance their investigations, and aid in their responses to stolen vehicles and other alerts. 
 	
 The use of Flock’s ALPRs in local communities have raised serious questions about how they impact privacy and collect data. The case of Bridgewater is one example of these concerns. Bridgewater has about 6,600 residents and a very low crime rate: in five years, there were no homicides, one abduction, two robberies, and six motor vehicle thefts. Despite this, Bridgewater’s five Flock cameras recorded over 60,000 vehicle passages per month. More significantly, those scans were queried 6.9 million times in a single year by more than 4,600 law enforcement agencies across the country.<sup>3</sup> Many residents did not know the cameras existed, and even fewer understood that their small town’s traffic data was accessible nationwide.
 
