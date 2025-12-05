@@ -14,7 +14,7 @@ navbar-links:
   Technology Examples:
     - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
     - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
-
+title: Automatic License Plate Reader (ALPR) Technology
 ---
 Automated License Plate Readers (ALPR) are surveillance systems that use high speed cameras to capture images of passing vehicles and quickly grab their license plate numbers using optical character recognition software. According to the International Association of Chiefs of Police (IACP), ALPRs automatically record plate numbers along with the date, time, and GPS coordinates of each capture, creating a detailed log of vehicle movements without manual input from officers.<sup>1</sup> These systems are mounted on poles, streetlights, patrol cars, or overpasses, and feed the captured data into searchable databases that can generate real time alerts or be reviewed in later investigations. 
 
