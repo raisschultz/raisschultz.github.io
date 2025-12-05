@@ -14,8 +14,12 @@ This technology matters because it now extends beyond local policing efforts. Fl
 
 
 
-<sup>1</sup> International Association of Chiefs of Police, “Automated License Plate Recognition,” https://www.theiacp.org/projects/automated-license-plate-recognition 
-<sup>2</sup> Flock Safety, “6 Myths About License Plate Readers,” Flock Safety Blog, https://www.flocksafety.com/blog/6-myths-license-plate-readers-security-systems 
+<sup>1</sup> International Association of Chiefs of Police, “Automated License Plate Recognition,” https://www.theiacp.org/projects/automated-license-plate-recognition
+
+<sup>2</sup> Flock Safety, “6 Myths About License Plate Readers,” Flock Safety Blog, https://www.flocksafety.com/blog/6-myths-license-plate-readers-security-systems
+
 <sup>3</sup> American Civil Liberties Union, You Are Being Tracked, https://www.aclu.org/you-are-being-tracked 
+
 <sup>4</sup> American Civil Liberties Union, “Flock in Massachusetts and Updates,” https://www.aclu.org/news/privacy-technology/flock-massachusetts-and-updates 
+
 <sup>5</sup) Associated Press, “Border Patrol, ICE Expand Access to License Plate Tracking,” https://apnews.com/article/immigration-border-patrol-surveillance-drivers-trump-takeaways-48a6056d5661c676d33867afe4724464 
