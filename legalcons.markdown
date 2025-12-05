@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legal Concerns and Implications with ALPR Technology
+title: Legal Concerns 
 permalink: /legalconcerns/
 ---
 The use of ALPRs has raised several legal questions and concerns regarding privacy, data access, interstate law enforcement, and constitutional rights and protections. 
