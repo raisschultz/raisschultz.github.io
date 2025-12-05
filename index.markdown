@@ -7,7 +7,7 @@ navbar-links:
   Introduction of the Technology: "https://raisschultz.github.io/introduction/"
   Discussion of the Technology: 
     - Benefits: "https://raisschultz.github.io/benefits/"
-    - Legal Concerns: "https://raisschultz.github.io/legalconcerns/"
+    - Legal Concerns and Implications: "https://raisschultz.github.io/legalconcerns/"
     - Social and Political Concerns and Implications: "https://raisschultz.github.io/socialpoliticalconcerns/"
     - Technological Concerns and Implications: "https://raisschultz.github.io/technologicalconcerns/"
     - Proposed Changes and Improvements: "https://raisschultz.github.io/proposedchanges/"
