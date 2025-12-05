@@ -3,7 +3,7 @@ layout: page
 title: Border Patrol Use 
 permalink: /borderpatrolalprs/
 ---
-![ICE&CBP](https://raisschultz.github.io/assets/img/cbpice.png)
+![ICE&CBP](https://raisschultz.github.io/assets/img/cpbice.png)
 <sub>(Electronic Frontier Foundation)</sub>
 
 Federal agencies such as Customs and Border Protection (CBP) and Immigration and Customs Enforcement (ICE) have begun to utilize ALPR technology and Flock’s centralized databases for purposes beyond community tools for public safety. This use case shows how ALPRs have begun to function as part of a national surveillance network used by the government for immigration and border control, rather than just finding a stolen vehicle.
