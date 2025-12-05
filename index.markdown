@@ -16,6 +16,8 @@ navbar-links:
     - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
 title: Automatic License Plate Reader (ALPRs) 
 ---
+![Flock Camera](https://raisschultz.github.io/assets/img/flockcamera.png)
+
 Automated License Plate Readers (ALPR) are surveillance systems that use high speed cameras to capture images of passing vehicles and quickly grab their license plate numbers using optical character recognition software. According to the International Association of Chiefs of Police (IACP), ALPRs automatically record plate numbers along with the date, time, and GPS coordinates of each capture, creating a detailed log of vehicle movements without manual input from officers.<sup>1</sup> These systems are mounted on poles, streetlights, patrol cars, or overpasses, and feed the captured data into searchable databases that can generate real time alerts or be reviewed in later investigations. 
 
 This project focuses on Flock Safety, one of the largest ALPR providers in the United States. Flock cameras capture license plates, vehicle characteristics, and contextual location data, and then upload that data to a centralized cloud platform that is shared across jurisdictions.<sup>2</sup> Although marketed as community-safety tools intended to help solve crimes, their scale and interconnected structure raise significant privacy and oversight concerns. Investigations by the ACLU have shown that ALPR data is often stored for long periods, shared millions of times between agencies, and accessed with little transparency or public control, creating conditions ripe for surveillance misuse.<sup>3,4</sup>
