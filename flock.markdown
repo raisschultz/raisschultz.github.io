@@ -3,7 +3,7 @@ layout: page
 title: Flock Camera ALPRs in Virginia
 permalink: /flockalprs/
 ---
-Flock Safety’s Automatic License Plate Readers (ALPRs) have become widespread across neighbourhoods, towns, cities, and communities across the United States, including around our very own campuses at George Mason. According to GMU Campus PD, there are currently 23 ALPRs in use around the Fairfax campus.<sup>1</sup> 
+Flock Safety’s Automatic License Plate Readers (ALPRs) have become widespread across neighbourhoods, towns, cities, and communities across the United States, including around our very own campuses at George Mason and throughout Virginia. According to GMU Campus PD, there are currently 23 ALPRs in use around the Fairfax campus.<sup>1</sup> 
 
 ![VirginiaFlockStats](https://raisschultz.github.io/assets/img/virginiaflock.png)
 <sub>(WHRO)</sub>
