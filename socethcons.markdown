@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Social and Political Concerns and Implications with  ALPR Technology
-permalink: /socialpoliticalconcerns/
+title: Social and Ethical Concerns and Implications with  ALPR Technology
+permalink: /socialethicalconcerns/
 ---
 The expansion in use of Automated License Plate Readers (ALPRs) has raised social and ethical concerns related to privacy, civil liberties, and behavioral impacts due to widespread surveillance. Some of these concerns over mass surveillance and fears over the use of ALPR data against marginalized and vulnerable communities by federal authorities have led to residents in cities like Austin, Texas pushing their local governments to cancel contracts with Flock.<sup>1</sup>
 
