@@ -17,10 +17,17 @@ navbar-links:
 title: Automatic License Plate Reader (ALPRs) 
 ---
 ![Flock Camera](https://raisschultz.github.io/assets/img/flockcamera.png)
+<sub>(Flock Safety)</sub>
 
 Automated License Plate Readers (ALPR) are surveillance systems that use high speed cameras to capture images of passing vehicles and quickly grab their license plate numbers using optical character recognition software. According to the International Association of Chiefs of Police (IACP), ALPRs automatically record plate numbers along with the date, time, and GPS coordinates of each capture, creating a detailed log of vehicle movements without manual input from officers.<sup>1</sup> These systems are mounted on poles, streetlights, patrol cars, or overpasses, and feed the captured data into searchable databases that can generate real time alerts or be reviewed in later investigations. 
 
+![Types of ALPRs](https://raisschultz.github.io/assets/img/typesofalprs.png)
+<sub>(Types of ALPRs, Center for Human Rights)</sub>
+
 This project focuses on Flock Safety, one of the largest ALPR providers in the United States. Flock cameras capture license plates, vehicle characteristics, and contextual location data, and then upload that data to a centralized cloud platform that is shared across jurisdictions.<sup>2</sup> Although marketed as community-safety tools intended to help solve crimes, their scale and interconnected structure raise significant privacy and oversight concerns. Investigations by the ACLU have shown that ALPR data is often stored for long periods, shared millions of times between agencies, and accessed with little transparency or public control, creating conditions ripe for surveillance misuse.<sup>3,4</sup>
+
+![How ALPRs Work](https://raisschultz.github.io/assets/img/howalprswork.png)
+<sub>(How ALPRs Work, Center for Human Rights)</sub>
 
 This technology matters because it now extends beyond local policing efforts. Flock has entered federal contracts that allow Customs and Border Protection (CBP) and Immigration and Customs Enforcement (ICE) to access its databases for immigration and border enforcement operations.<sup>5</sup> These partnerships expand the reach and impact of Flock’s networks, and turns it into a nationwide surveillance system, creating concerns for immigrants now and vulnerable communities and activists in the future. 
 
