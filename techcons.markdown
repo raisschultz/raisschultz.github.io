@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technological Concerns with the ALPR Technology
+title: Technological Concerns 
 permalink: /technologicalconcerns/
 ---
 The technological design of ALPRs, their systems, and databases have some concerns, especially as the use of ALPR networks like Flock’s have expanded from local community policing to large federal agencies. ALPR vendors like Flock store the vehicle-movement data in a centralized cloud platform that is accessible to thousands of law enforcement agencies and entities.<sup>1</sup> On one hand, this enables easy and fast searches across jurisdictions, it also concentrates sensitive data within a single system. A data breach would expose detailed information about where millions of people live, work, worship, and seek medical care. Civil liberties experts warn that any infrastructure storing large-scale location data becomes a high-value target for cyberattacks.<sup>2</sup>
