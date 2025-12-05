@@ -4,7 +4,6 @@
 # THIS IS THE HOME PAGE. 
 layout: home
 navbar-links:
-  Introduction of the Technology: "https://raisschultz.github.io/introduction/"
   Discussion of the Technology: 
     - Benefits: "https://raisschultz.github.io/benefits/"
     - Legal Concerns and Implications: "https://raisschultz.github.io/legalconcerns/"
