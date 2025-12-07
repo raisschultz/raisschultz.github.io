@@ -1,9 +1,9 @@
 ---
 layout: page
-title: A Utilitarian Perspective
+title: A Deontological Perspective
 permalink: /deontologicallens/
 ---
-# The Chilling oF Civil Rights and Liberties
+# The Chilling of Civil Rights and Liberties
 
 **Big Brother is watching image/1984**
 
