@@ -13,6 +13,9 @@ navbar-links:
   Technology Examples:
     - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
     - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
+  Ethical Perspectives:
+    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/utilitarianlens"
+    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/deontologicallens"
   Bibliography: "https://raisschultz.github.io/bibliography/"
 title: Automatic License Plate Readers (ALPRs) 
 ---
