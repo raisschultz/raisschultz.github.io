@@ -13,7 +13,7 @@ navbar-links:
   Technology Examples:
     - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
     - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
-    Bibliography: "https://raisschultz.github.io/bibliography/"
+  Bibliography: "https://raisschultz.github.io/bibliography/"
 title: Automatic License Plate Readers (ALPRs) 
 ---
 ![Flock Camera](https://raisschultz.github.io/assets/img/flockcamera.png)
