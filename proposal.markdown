@@ -3,6 +3,7 @@ layout: page
 title: Evaluation and Proposed Changes 
 permalink: /proposedchanges/
 ---
+# Evaluation of the Technology
 ALPR technology provides legitimate public safety benefits, especially at the community level. Local departments and campus agencies use ALPRs to recover stolen vehicles, respond to Amber and Silver Alerts, and support targeted investigations.
 
 The problems arise not from the technical capabilities of ALPRs, but from the scale, breadth of access, and data-sharing practices. The ACLU has documented widespread, often misunderstood cross-jurisdictional sharing of ALPR data, including long retention periods and millions of queries made by agencies far removed from where the data was collected.<sup id="fn1_ref"><a href="#fn1">1</a></sup> The case of Bridgewater, VA shows how quickly “local” surveillance becomes national surveillance.
@@ -15,118 +16,118 @@ Finally, the centralized database model used by vendors like Flock Safety create
 
 ALPRs are not inherently harmful, and they should not be eliminated. They should also not be expanded, especially not federally. Instead, they must be governed by strict, enforceable regulations that define retention, access, sharing, oversight, and transparency. ALPRs should remain in use only as tightly controlled, narrowly scoped community-safety tools.
 
-Proposed Improvements and Changes
-Proposals for Law Enforcement 
+# Proposed Improvements and Changes for ALPR Technology
 
-1. Strict Data-Retention Limits
->Adopt 30-day retention unless tied to an active investigation.
+## Proposals for Law Enforcement 
+
+**1. Strict Data-Retention Limits**
+* Adopt 30-day retention unless tied to an active investigation.  
 >Aligns with concerns by the ACLU about excessive long term storage of data for pending investigations.<sup id="fn2_ref"><a href="#fn2">2</a></sup>
 
-2. Require Warrants for Historical Movement Queries
+**2. Require Warrants for Historical Movement Queries**
 
->Like any other surveillance technology, a judge should need to approve its use. 
+* Like any other surveillance technology, a judge should need to approve its use and deployment.   
 >Aligns with concerns raised by the Congressional Research Service about prolonged, warrantless location tracking.<sup id="fn5_ref"><a href="#fn5">5</a></sup>
 
-3. Public-Facing Transparency Policies
+**3. Public-Facing Transparency Policies**
 
-Publish retention periods, camera locations, audit schedules, and all agencies with access.
->Aligns with recommendations from the D.C. Police Complaints Board (PCB)6
+* Publish retention periods, camera locations, audit schedules, and all agencies with access to ALPR data   
+>Aligns with recommendations from the D.C. Police Complaints Board (PCB)<sup id="fn6_ref"><a href="#fn6">6</a></sup>
 
-4. Prohibit ALPR Surveillance of First Amendment-Protected Activity
+**4. Prohibit ALPR Surveillance of First Amendment-Protected Activity**
 
-Explicitly forbid tracking targeted tracking of attendees to protests, political events, religious gatherings, or healthcare clinics.
+* Explicitly forbid tracking targeted tracking of attendees to protests, political events, religious gatherings, or healthcare clinics.  
 >Directly supported by PCB’s call to revise MPD General Order 303.09.<sup id="fn6_ref"><a href="#fn6">6</a></sup>
 
-5. Mandatory Audit Logs and Misuse Penalties
+**5. Mandatory Audit Logs and Misuse Penalties**
 
-Regular audits to detect unauthorized lookups (e.g., romantic partners, neighbors)
+* Regular audits to detect unauthorized lookups (e.g., romantic partners, neighbors)  
 
+**6. Community Access to Personal ALPR Records**
 
-
-6. Community Access to Personal ALPR Records
-
-Public mechanisms (like a Freedom of Information Act request) allowing individuals to request data about their own vehicle.
+* Public mechanisms (like a Freedom of Information Act request) allowing individuals to request data about their own vehicle.  
 >Based on PCB’s recommendation for public access procedures.<sup id="fn6_ref"><a href="#fn6">6</a></sup>
 
-Proposals for Policymakers 
+## Proposals for Policymakers 
 
-1. Uniform Statewide ALPR Legislation
+**1. Uniform Statewide ALPR Legislation**
 
-Statutes should define: retention periods, warrant requirements, audit obligations, reporting rules, and penalties for misuse, in accordance with the proposals outlined for law enforcement. 
+* Statutes should define:
+  >retention periods,
+  >warrant requirements,
+  >audit obligations,
+  >reporting rules,
+  >and penalties for misuse, in accordance with the proposals outlined for law enforcement. 
 
-2. Restrict Federal Access to Local ALPR Data
+**2. Restrict Federal Access to Local ALPR Data**
 
-No sharing with ICE or CBP for civil immigration enforcement without a warrant.
-Federal contracts should require their own specialized, specific systems from vendors they enter contracts with, rather than co-opting existing data collected for a different purpose. 
->Addresses the concerns raised by AP’s investigation of federal ALPR use.<sup id="fn2_ref"><a href="#fn2">2</a></sup>
+* No sharing with ICE or CBP for civil immigration enforcement without a warrant.  
+* Federal contracts should require their own specialized, specific systems from vendors they enter contracts with, rather than co-opting existing data collected for a different purpose.   
+>Addresses the concerns raised by AP’s investigation of federal ALPR use.<sup id="fn2_ref"><a href="#fn2">2</a></sup>  
 
-3. Mandated Annual Transparency Reports
+**3. Mandated Annual Transparency Reports**
 
-Reports should include: number of queries, number of external agencies with access, all incidents of misuse, and all ALPR systems deployed.
+* Reports should include: number of queries, number of external agencies with access, all incidents of misuse, and all ALPR systems deployed.  
 >Reflects PCB’s transparency recommendations.<sup id="fn6_ref"><a href="#fn6">6</a></sup>
 
-4. Require Public Disclosure of Vendor Contracts
+**4. Require Public Disclosure of Vendor Contracts**
 
-All terms of ALPR contracts with vendors must be public, including: data-ownership terms, vendor-initiated sharing conditions, federal access provisions.
+* All terms of ALPR contracts with vendors must be public, including: data-ownership terms, vendor-initiated sharing conditions, federal access provisions.  
 >Addresses ACLU findings about misleading assumptions around vendor data-sharing.<sup id="fn1_ref"><a href="#fn1">1</a></sup>
 
-5. Independent Oversight Bodies
+**5. Independent Oversight Bodies**
 
-States should create independent oversight authorities with powers to audit, investigate, and enforce compliance.
->Aligns with civil-liberties standards for surveillance oversight.<sup id="fn7_ref"><a href="#fn7">7</a></sup>
+* States should create independent oversight authorities with powers to audit, investigate, and enforce compliance.    
+>Aligns with civil-liberties standards for surveillance oversight.<sup id="fn7_ref"><a href="#fn7">7</a></sup>  
 
-Proposals for Vendors (Flock Safety)
+## Proposals for Vendors (Flock Safety)
 
 The most significant reform needed from ALPR vendors is a fundamental shift in how the ALPR data is stored, accessed, and controlled. Many of the issues that have been identified with the use of ALPR technology, particularly by federal agencies, stem from the vendor-controlled cloud model. To resolve these issues, vendors must restructure their systems so that communities, not the vendor, retain full possession and authority over their ALPR data.
 
-1. End Centralized Data Storage and Transition to a Decentralized Architecture
+**1. End Centralized Data Storage and Transition to a Decentralized Architecture**
 
-Vendors should no longer store ALPR data in a single, centralized cloud repository. Instead:
-Each community’s data should be stored locally, within its own jurisdiction and under its direct control.
-
-Flock should not possess backups, mirrors, or cloud copies of community ALPR data.
-
-Data from one jurisdiction should not be accessible to any other, unless explicitly authorized by that community.
-
-Vendors should provide the hardware and software, but no access pathway to the stored data.
+* Vendors should no longer store ALPR data in a single, centralized cloud repository. Instead:  
+  >Each community’s data should be stored locally, within its own jurisdiction and under its direct control.  
+  >Flock should not possess backups, mirrors, or cloud copies of community ALPR data.  
+  >Data from one jurisdiction should not be accessible to any other, unless explicitly authorized by that community.  
+  >Vendors should provide the hardware and software, but no access pathway to the stored data.  
 
 This eliminates the structural problem where federal agencies can obtain ALPR data by going directly to the vendor. If Flock does not hold the data, it cannot disclose it; voluntarily or under federal pressure. Any federal request would have to go through normal judicial and legal channels, restoring accountability and local control.
 
 This proposal also addresses concerns raised in the STPP report warning that centralized ALPR repositories create massive cybersecurity and privacy risks, as they function as single high-value targets.<sup id="fn4_ref"><a href="#fn4">4</a></sup> A decentralized model reduces the attack surface and ensures no single breach compromises nationwide movement data.
 
-2. Strengthen Community-Owned Security Infrastructure
+**2. Strengthen Community-Owned Security Infrastructure**
 
-Although data would be locally stored, vendors should still provide: encryption standards, secure software frameworks, regular security updates, and configuration guidance.
+* Although data would be locally stored, vendors should still provide:
+  >encryption standards,  
+  >secure software frameworks,  
+  >regular security updates,  
+  >and configuration guidance.  
 
 Local storage does not eliminate the need for security; it changes its focus. Rather than protecting a giant national vault, the goal becomes ensuring each community deployment is secure and that no technical backdoors exist for vendor access.
 
-3. Mandatory Third-Party Audits for Privacy and Integrity
+**3. Mandatory Third-Party Audits for Privacy and Integrity**
 
-Audits remain essential, but their purpose shifts under this model. Audits should verify: 
-that the vendor does not retain access to local ALPR data;
+* Audits remain essential, but their purpose shifts under this model. Audits should verify:
+  >that the vendor does not retain access to local ALPR data;  
+  >that no backdoors or federal/vendor-side channels exist;  
+  >that local data is securely stored and retained consistent with community policy;  
+  >And that interstate or federal sharing cannot occur absent explicit community authorization.  
 
-that no backdoors or federal/vendor-side channels exist;
+**4. Community-Centered Data-Sharing Dashboards**
 
-that local data is securely stored and retained consistent with community policy;
-
-And that interstate or federal sharing cannot occur absent explicit community authorization.
-
-4. Community-Centered Data-Sharing Dashboards
-
-Communities should retain full control over whether and how their data is shared. A dashboard supplied, but not operated or controlled by the vendor should allow communities to:
-see every access of their ALPR data;
-
-authorize or revoke any sharing;
-
-document audit logs and queries transparently to the public.
+* Communities should retain full control over whether and how their data is shared. A dashboard supplied, but not operated or controlled by the vendor should allow communities to:
+>see every access of their ALPR data;  
+>authorize or revoke any sharing;
+>document audit logs and queries transparently to the public.  
 
 This aligns with transparency principles emphasized by the Police Complaints Board (PCB), which stressed the importance of public visibility over data access and third-party use.<sup id="fn6_ref"><a href="#fn6">6</a></sup>
 
-5. Privacy-First Default System Settings
+**5. Privacy-First Default System Settings**
 
-Vendors should implement by default: short retention periods (the minimum necessary for function), opt-in sharing settings, and alerts when communities activate inter-agency sharing.
+*Vendors should implement by default: short retention periods (the minimum necessary for function), opt-in sharing settings, and alerts when communities activate inter-agency sharing.  
+>These defaults ensure that privacy is embedded into the design rather than reliant on user configuration.
 
-These defaults ensure that privacy is embedded into the design rather than reliant on user configuration.
 With a shift to decentralized, community-controlled data, the largest ethical concerns and risks with  ALPR systems can be prevented. Vendors should no longer function as data controllers, but as technology providers, supporting systems designed to protect the community, without infringing on their rights and civil liberties. 
 
 Footnotes
