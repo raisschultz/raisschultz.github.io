@@ -9,7 +9,7 @@ A centralized ALPR database also increases the opportunities for internal misuse
 
 These concerns are heightened when ALPR systems are incorporated into federal agencies. Federal use of networks like Flock’s is very different from use in cities or communities, it covers larger geographical areas, pulls from and compiles data from a variety of sources, and retains the data for longer periods of time.<sup id="fn4_ref"><a href="#fn4">4</a></sup> 
 
-A final technological implication with ALPR technology is the future integration of AI-powered systems, in order to lower costs and increase the efficiency of the systems.<sup>5</sup> Automated systems could issue citations or flag “suspicious” travel without human oversight.<sup id="fn5_ref"><a href="#fn5">5</a></sup> This introduces technical risks such as algorithmic errors, false positives, and biased outcomes, and raises more ethical and legal questions about due process when decisions are made by software rather than officers.
+A final technological implication with ALPR technology is the future integration of AI-powered systems, in order to lower costs and increase the efficiency of the systems.<sup id="fn5_ref"><a href="#fn5">5</a></sup> Automated systems could issue citations or flag “suspicious” travel without human oversight.<sup id="fn5_ref"><a href="#fn5">5</a></sup> This introduces technical risks such as algorithmic errors, false positives, and biased outcomes, and raises more ethical and legal questions about due process when decisions are made by software rather than officers.
 
 Footnotes
 
