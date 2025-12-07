@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Utilitarian Perspective on the Use of ALPRs
-subtitle: Government: Law, Order and National Security
+subtitle: Government - Law, Order and National Security
 date: 2025-11-27 22:20:30 -0400
 ---
 
