@@ -12,7 +12,7 @@ The potential use of ALPR data by federal agencies poses risks towards vulnerabl
 The “panopticon effect” is a concept derived from a prison design, and expanded on by Michael Foucault.<sup id="fn5_ref"><a href="#fn5">5</a></sup> In a panopticon, the possibility of being observed - whether or not one truly is being observed - shapes the behavior of the observee. 
 
 ![Panopticon](https://raisschultz.github.io/assets/img/panopticon.png)
-<sub>(Public Domain)</sub>
+<sub>(Panopticon, public domain)</sub>
 
 This effect can compel people to self regulate, alter their routines, and avoid and reduce behaviors they fear could be misinterpreted by the possible observer.<sup id="fn6_ref"><a href="#fn6">6</a></sup> Civil liberty scholars describe this as the “chilling effect”, where surveillance deters lawful activities like attending protests, visiting health services (like an abortion clinic), and participating in political organizations. 
 
