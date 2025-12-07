@@ -3,7 +3,6 @@ layout: post
 title: A Utilitarian Perspective on the Use of ALPRs
 subtitle: Government: Law, Order and National Security
 date:   2025-11-27 22:20:30 -0400
-
 ---
 From the ethical perspective of the government, and law enforcement, ALPRs are justified as necessary tools that increase efficiency, and advance public safety and national security. This ethical perspective is grounded in the idea that the state has an ethical duty to prevent crime and maintain social order.<sup>1</sup> The use of more efficient tools like ALPRs helps them fulfill their responsibility to the public. 
 
@@ -15,8 +14,8 @@ ALPRs and their databases are force multipliers for local law enforcement that a
 
 From the ethical perspective of law enforcement agencies and the government, the use of ALPR technologies is necessary, and justified. ALPRs and networks like Flock’s contribute to more secure communities and a more secure nation, which fulfills the government's obligation to protect its population.
 
-<sup>1  Internet Encyclopedia of Philosophy, “Social Contract Theory,” https://iep.utm.edu/soc-cont/ </sup>
-<sup>2 Internet Encyclopedia of Philosophy, “Act and Rule Utilitarianism,” https://iep.utm.edu/util-a-r/ </sup>
-<sup>3 U.S. Department of Homeland Security, Privacy Impact Assessment for CBP License Plate Reader Technology (PIA-049(a)) (July 2020), https://www.dhs.gov/sites/default/files/publications/privacy-pia-cbp049a-cbplprtechnology-july2020.pdf </sup>
-<sup>4 Associated Press, “U.S. Border Patrol is monitoring U.S. drivers and detaining those with ‘suspicious’ travel patterns,” 2025, https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd </sup>
+<sup> 1  Internet Encyclopedia of Philosophy, “Social Contract Theory,” https://iep.utm.edu/soc-cont/ </sup>
+<sup> 2 Internet Encyclopedia of Philosophy, “Act and Rule Utilitarianism,” https://iep.utm.edu/util-a-r/ </sup>
+<sup> 3 U.S. Department of Homeland Security, Privacy Impact Assessment for CBP License Plate Reader Technology (PIA-049(a)) (July 2020), https://www.dhs.gov/sites/default/files/publications/privacy-pia-cbp049a-cbplprtechnology-july2020.pdf </sup>
+<sup> 4 Associated Press, “U.S. Border Patrol is monitoring U.S. drivers and detaining those with ‘suspicious’ travel patterns,” 2025, https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd </sup>
 
