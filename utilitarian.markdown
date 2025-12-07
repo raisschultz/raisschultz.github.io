@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Utilitarian Perspective
-permalink: /legalconcerns/
+permalink: /utilitarianlens/
 ---
 # Government - Law, Order, and National Security
 
