@@ -6,14 +6,17 @@ permalink: /deontologicallens/
 # The Chilling of Civil Rights and Liberties
 
 ![BigBrotherIsWatching](https://raisschultz.github.io/assets/img/bigbrother.png)
+<sub>(Big Brother is Watching, Getty Images)</sub>
 
 From a civil liberties and rights-based ethical standpoint, Automated License Plate Readers (ALPRs) represent a form of surveillance that conflicts with fundamental human rights to privacy, freedom of movement, and freedom of association. This ethical perspective is grounded in deontological ethics, which holds that certain rights and moral duties exist independently of outcomes, and cannot be overridden simply because a policy is effective or useful.<sup id="fn1_ref"><a href="#fn1">1</a></sup> From this viewpoint, ALPRs are ethically problematic not because they fail or succeed in reducing crime, but because they undermine rights that individuals are inherently entitled to. The right to privacy, liberty, and freedom from arbitrary interference are recognized in the Universal Declaration of Human Rights.<sup id="fn2_ref"><a href="#fn2">2</a></sup>
 
 ![UDHRVisual](https://raisschultz.github.io/assets/img/udhr.png)
+<sub>(UDHR Visual, United Nations)</sub>
 
 Individuals have a right not to be tracked, monitored, or recorded by the government as they engage in everyday, routine activities. On the GMU Fairfax campus, where 23 Flock cameras monitor vehicles, students and community members have, perhaps unknowingly, encountered this technology.. The anti-Flock stickers posted around campus show that people that are aware are feeling like they are under mass surveillance by the Flock ALPR system. 
 
 ![AntiFlockAtGMU](https://raisschultz.github.io/assets/img/antiflockgmu.jpg)
+<sub>(Anti Flock Sentiment @ GMU Horizon Hall)</sub>
 
 A primary concern from the civil liberties focused ethical perspective is that ALPRs generate detailed logs of ordinary people’s movements without their awareness or consent. As the ACLU notes, surveillance that continuously collects and shares location data can chill lawful behavior, restrict democratic participation, and expose vulnerable populations to government scrutiny.<sup id="fn3_ref"><a href="#fn3">3</a></sup> 
 
