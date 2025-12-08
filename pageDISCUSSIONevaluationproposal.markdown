@@ -125,7 +125,7 @@ This aligns with transparency principles emphasized by the Police Complaints Boa
 
 **5. Privacy-First Default System Settings**
 
-*Vendors should implement by default: short retention periods (the minimum necessary for function), opt-in sharing settings, and alerts when communities activate inter-agency sharing.  
+* Vendors should implement by default: short retention periods (the minimum necessary for function), opt-in sharing settings, and alerts when communities activate inter-agency sharing.  
 >These defaults ensure that privacy is embedded into the design rather than reliant on user configuration.
 
 With a shift to decentralized, community-controlled data, the largest ethical concerns and risks with  ALPR systems can be prevented. Vendors should no longer function as data controllers, but as technology providers, supporting systems designed to protect the community, without infringing on their rights and civil liberties. 
