@@ -5,7 +5,7 @@ permalink: /flockalprs/
 ---
 Flock Safety’s Automatic License Plate Readers (ALPRs) have become widespread across neighbourhoods, towns, cities, and communities across the United States, including around our very own campuses at George Mason and throughout Virginia. According to GMU Campus PD, there are currently 23 ALPRs in use around the Fairfax campus.<sup id="fn1_ref"><a href="#fn1">1</a></sup>
 
-![FlockLocations](https://raisschultz.github.io/assets/img/flocklocations.png)
+![FlockLocations](https://raisschultz.github.io/assets/img/flocklocations.png)  
 <sub>(Flock Locations Across the USA, Flock Safety)</sub>
 
 These cameras capture license plates, vehicle characteristics, and the date, time, and GPS coordinates of every passing vehicle, uploading this information to a centralized cloud database accessible to law enforcement agencies.<sup id="fn2_ref"><a href="#fn2">2</a></sup> Local governments and law enforcement agencies adopt Flock’s system to enhance their investigations, and aid in their responses to stolen vehicles and other alerts. 
