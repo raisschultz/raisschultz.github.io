@@ -7,7 +7,7 @@ The use of ALPRs has raised several legal questions and concerns regarding priva
 
 One issue is the lack of consistent legal standards across states. In some jurisdictions, ALPR data is treated as a public record available through open-records requests, while in others it is explicitly protected as confidential law-enforcement information.<sup id="fn1_ref"><a href="#fn1">1</a></sup> Despite these differences, ALPR systems share data across state lines through vendor networks like Flock’s, meaning that information collected in a state with strong privacy protections may still be accessed by agencies in states with weaker ones. This creates legal and civil liberties risks because the protection afforded to a driver’s data depends not on where they travel, but on where the querying agency is located. 
 
-![ALPR Data Retention Periods](https://raisschultz.github.io/assets/img/legalretention.png)
+![ALPR Data Retention Periods](https://raisschultz.github.io/assets/img/legalretention.png)  
 <sub>(ALPR Data Retention Periods, ACLU)</sub>
 
 Another issue is regarding the transparency in the access and use of ALPR data. In Washington D.C., the Police Complaints Board (PCB) reported that the Metropolitan Police Department (MPD) receives ALPR data from external agencies without disclosing which agencies provide it, how long the data is retained, or under what authority the sharing occurs.<sup id="fn2_ref"><a href="#fn2">2</a></sup> Inconsistent internal documentation makes it even harder for oversight bodies and the public to understand just how far and fast ALPR data is spread and used. Gaps in transparency undermine public trust in law enforcement institutions, and also heighten the risk and possibility of misuse. 
