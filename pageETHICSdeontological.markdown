@@ -5,7 +5,7 @@ permalink: /deontologicallens/
 ---
 # The Chilling of Civil Rights and Liberties
 
-![BigBrotherIsWatching](https://raisschultz.github.io/assets/img/bigbrother.png)
+![BigBrotherIsWatching](https://raisschultz.github.io/assets/img/bigbrother.png)  
 <sub>(Big Brother is Watching, Getty Images)</sub>
 
 From a civil liberties and rights-based ethical standpoint, Automated License Plate Readers (ALPRs) represent a form of surveillance that conflicts with fundamental human rights to privacy, freedom of movement, and freedom of association. This ethical perspective is grounded in deontological ethics, which holds that certain rights and moral duties exist independently of outcomes, and cannot be overridden simply because a policy is effective or useful.<sup id="fn1_ref"><a href="#fn1">1</a></sup> From this viewpoint, ALPRs are ethically problematic not because they fail or succeed in reducing crime, but because they undermine rights that individuals are inherently entitled to. The right to privacy, liberty, and freedom from arbitrary interference are recognized in the Universal Declaration of Human Rights.<sup id="fn2_ref"><a href="#fn2">2</a></sup>
