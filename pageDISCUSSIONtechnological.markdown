@@ -3,7 +3,12 @@ layout: page
 title: Technological Concerns 
 permalink: /technologicalconcerns/
 ---
-The technological design of ALPRs, their systems, and databases have some concerns, especially as the use of ALPR networks like Flock’s have expanded from local community policing to large federal agencies. ALPR vendors like Flock store the vehicle-movement data in a centralized cloud platform that is accessible to thousands of law enforcement agencies and entities.<sup id="fn1_ref"><a href="#fn1">1</a></sup> On one hand, this enables easy and fast searches across jurisdictions, it also concentrates sensitive data within a single system. A data breach would expose detailed information about where millions of people live, work, worship, and seek medical care. Civil liberties experts warn that any infrastructure storing large-scale location data becomes a high-value target for cyberattacks.<sup id="fn2_ref"><a href="#fn2">2</a></sup>
+The technological design of ALPRs, their systems, and databases have some concerns, especially as the use of ALPR networks like Flock’s have expanded from local community policing to large federal agencies. ALPR vendors like Flock store the vehicle-movement data in a centralized cloud platform that is accessible to thousands of law enforcement agencies and entities.<sup id="fn1_ref"><a href="#fn1">1</a></sup> 
+
+
+<sub>(Centralized Database, LinkedIn)</sub>
+
+On one hand, this enables easy and fast searches across jurisdictions, it also concentrates sensitive data within a single system. A data breach would expose detailed information about where millions of people live, work, worship, and seek medical care. Civil liberties experts warn that any infrastructure storing large-scale location data becomes a high-value target for cyberattacks.<sup id="fn2_ref"><a href="#fn2">2</a></sup>
 
 A centralized ALPR database also increases the opportunities for internal misuse of the system. Law enforcement officers have historically abused access to confidential systems to monitor romantic partners, neighbours, families and others for non-policing, personal reasons.<sup id="fn3_ref"><a href="#fn3">3</a></sup> Because ALPR networks allow searches across thousands of jurisdictions, a single officer’s misconduct could have national reach. The possibility of an officer using an ALPR system to stalk an ex’s movements on the other side of the country is very real. 
 
