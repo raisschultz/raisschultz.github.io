@@ -5,12 +5,15 @@ permalink: /flockalprs/
 ---
 Flock Safety’s Automatic License Plate Readers (ALPRs) have become widespread across neighbourhoods, towns, cities, and communities across the United States, including around our very own campuses at George Mason and throughout Virginia. According to GMU Campus PD, there are currently 23 ALPRs in use around the Fairfax campus.<sup id="fn1_ref"><a href="#fn1">1</a></sup>
 
-![VirginiaFlockStats](https://raisschultz.github.io/assets/img/virginiaflock.png)
-<sub>(WHRO)</sub>
+![FlockLocations](https://raisschultz.github.io/assets/img/flocklocations.png)
+<sub>(Flock Locations Across the USA, Flock Safety)</sub>
 
 These cameras capture license plates, vehicle characteristics, and the date, time, and GPS coordinates of every passing vehicle, uploading this information to a centralized cloud database accessible to law enforcement agencies.<sup id="fn2_ref"><a href="#fn2">2</a></sup> Local governments and law enforcement agencies adopt Flock’s system to enhance their investigations, and aid in their responses to stolen vehicles and other alerts. 
 	
 The use of Flock’s ALPRs in local communities have raised serious questions about how they impact privacy and collect data. The case of Bridgewater is one example of these concerns. Bridgewater has about 6,600 residents and a very low crime rate: in five years, there were no homicides, one abduction, two robberies, and six motor vehicle thefts. Despite this, Bridgewater’s five Flock cameras recorded over 60,000 vehicle passages per month. More significantly, those scans were queried 6.9 million times in a single year by more than 4,600 law enforcement agencies across the country.<sup id="fn3_ref"><a href="#fn3">3</a></sup> Many residents did not know the cameras existed, and even fewer understood that their small town’s traffic data was accessible nationwide.
+
+![VirginiaFlockStats](https://raisschultz.github.io/assets/img/virginiaflock.png)
+<sub>(WHRO)</sub>
 
 Flock Safety asserts that communities retain ownership of their data, and the company enforces a “privacy by design” philosophy with safeguards like 30-day data retention, encryption, and abstaining from implementing facial recognition technology into their ALPRs.<sup id="fn4_ref"><a href="#fn4">4</a></sup> However, the ACLU has documented cases where Flock’s contractual terms grant the company broad rights to disclose local ALPR data to other agencies, even when communities believe they have opted out of sharing, and furthermore, record requests in multiple states show that thousands of law enforcement agencies across the nation participate in Flock’s data-sharing network, which enables extremely widespread access to local vehicle-travel information.<sup id="fn5_ref"><a href="#fn5">5</a></sup> These findings from the ACLU investigation suggest that meaningful community control over ALPR data is far more limited than many residents or local officials realize.
 
