@@ -1,20 +1,5 @@
 ---
 layout: page
-navbar-links:
-  Homepage: "https://raisschultz.github.io/"
-  Project Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
-  Discussion of the Technology: 
-    - Benefits: "https://raisschultz.github.io/projectALPR/benefits/"
-    - Social and Political Concerns and Implications: "https://raisschultz.github.io/projectALPR/socialethicalconcerns/"
-    - Technological Concerns and Implications: "https://raisschultz.github.io/projectALPR/technologicalconcerns/"
-    - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
-  Technology Examples:
-    - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
-    - Border Patrol Use: "https://raisschultz.github.io/projectALPR/borderpatrolalprs/"
-  Ethical Perspectives:
-    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
-    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
-  Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
 title: Legal Concerns 
 permalink: /projectALPR/legalconcerns/
 ---
