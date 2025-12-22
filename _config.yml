@@ -24,9 +24,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 navbar-links:
   Resume: "https://raisschultz.github.io/resume/december2025/" 
-  Projects:
-    - Automated License Plate Readers: "https://raisschultz.github.io/projectALPR/introduction/"
-    - Extended Essay: "https://raisschultz.github.io/IB/ee/"
+  Automated License Plate Readers: 
+    - Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
+    - Benefits: "https://raisschultz.github.io/projectALPR/benefits/"
+    - Legal Concerns and Implications: "https://raisschultz.github.io/projectALPR/legalconcerns/"
+    - Social and Political Concerns and Implications: "https://raisschultz.github.io/projectALPR/socialethicalconcerns/"
+    - Technological Concerns and Implications: "https://raisschultz.github.io/projectALPR/technologicalconcerns/"
+    - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
+    - Example 1 - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
+    - Example 2 - Border Patrol Use: "https://raisschultz.github.io/projectALPR/borderpatrolalprs/"
+    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
+    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
+    - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
+  Extended Essay: "https://raisschultz.github.io/IB/ee/"
   Case Studies: 
     - Case Study: "https://raisschultz.github.io/FISMA/placeholder/"
 
