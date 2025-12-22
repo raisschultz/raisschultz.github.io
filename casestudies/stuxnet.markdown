@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuxnet 
-permalink: /casestudies/Stuxnet
+permalink: /casestudies/Stuxnet/
 ---
 # Stuxnet Case Study 
 
