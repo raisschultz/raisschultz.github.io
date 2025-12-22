@@ -21,15 +21,7 @@
 author: Michael Schultz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-navbar-links:
-  Resume: "https://raisschultz.github.io/resume/december2025/" 
-  Projects:
-    - Automated License Plate Readers: "https://raisschultz.github.io/projectALPR/introduction/"
-    - Extended Essay: "https://raisschultz.github.io/IB/ee/"
-  Case Studies: 
-    - Case Study: "https://raisschultz.github.io/FISMA/placeholder/"
 
-excerpt-length: 30 # Length of blog posts displayed on home page in words
 
 # Modify the appearance of the page
 
