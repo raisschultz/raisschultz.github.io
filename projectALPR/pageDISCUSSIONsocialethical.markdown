@@ -1,7 +1,22 @@
 ---
 layout: page
+navbar-links:
+  Homepage: "https://raisschultz.github.io/"
+  Project Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
+  Discussion of the Technology: 
+    - Benefits: "https://raisschultz.github.io/projectALPR/benefits/"
+    - Legal Concerns and Implications: "https://raisschultz.github.io/projectALPR/legalconcerns/"
+    - Technological Concerns and Implications: "https://raisschultz.github.io/projectALPR/technologicalconcerns/"
+    - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
+  Technology Examples:
+    - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
+    - Border Patrol Use: "https://raisschultz.github.io/projectALPR/borderpatrolalprs/"
+  Ethical Perspectives:
+    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
+    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
+  Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
 title: Social and Ethical Concerns 
-permalink: /socialethicalconcerns/
+permalink: /projectALPR/socialethicalconcerns/
 ---
 The expansion in use of Automated License Plate Readers (ALPRs) has raised social and ethical concerns related to privacy, civil liberties, and behavioral impacts due to widespread surveillance. Some of these concerns over mass surveillance and fears over the use of ALPR data against marginalized and vulnerable communities by federal authorities have led to residents in cities like Austin, Texas pushing their local governments to cancel contracts with Flock.<sup id="fn1_ref"><a href="#fn1">1</a></sup>
 
