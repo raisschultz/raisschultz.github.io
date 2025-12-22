@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /bibliography/
+permalink: /projectALPR/bibliography/
 ---
 # Bibliography 
 
