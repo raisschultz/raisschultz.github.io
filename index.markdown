@@ -19,7 +19,9 @@ navbar-links:
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
   Case Studies: 
-    - Case Study: "https://raisschultz.github.io/casestudies/Stuxnet/"
+    - Equifax: "https://raisschultz.github.io/casestudies/Equifax/"
+    - Stuxnet: "https://raisschultz.github.io/casestudies/Stuxnet/"
+    - FireEye: "https://raisschultz.github.io/casestudies/FireEye/"
 title: Michael Schultz
 ---
 
