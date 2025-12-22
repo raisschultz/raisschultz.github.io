@@ -272,68 +272,48 @@ relies on a state for its powers.
 
 # **Works Cited**   
 
-<em id="Citation">“1st </em>And 2nd Peshmerga Brigades Re-Unify for First Time after Kirkuk Fallout.” ​ SOFREP​, 12 
-Feb. 2020, 
-sofrep.com/news/1st-2nd-peshmerga-brigades-re-unify-first-time-kirkuk-fallout/. 
-Accessed 27 Oct. 2020 
-Aydoğan, Bekir. ​ The Iraqi Kurds' Destructive Infighting: Causes and Consequences​. 17 Apr. 
-2020, 
-blogs.lse.ac.uk/mec/2020/04/15/the-iraqi-kurds-destructive-infighting-causes-and-conseque
-nces/. Accessed 03 Nov. 2020 
-CJTF-OIR Press Release ​ . Public Affairs Office, 14 Dec. 2019, 
-www.inherentresolve.mil/Portals/14/Documents/Coalition%20Highlights/2019/12%20De
-cember/CJTF-OIR%20Press%20Release%2020191214-01-Highlights%20from%20Arou
-nd%20the%20Coalition.pdf?ver=2019-12-28-032025-610​. Accessed 02 Nov. 2020 
- Constitution of Iraq 2005. Art./Amend. 121, Fifth. 
-"Convention on Rights and Duties of States adopted by the Seventh International 
-Conference of American States". United Nations Treaty Series, Registration 
-Number:3802. 
-14 
-"De jure." ​ Merriam-Webster's Dictionary of Law​, edited by Merriam-Webster, 2nd edition, 
-2011. Credo Reference​, 
-https://search.credoreference.com/content/entry/mwdlaw/de_jure/0. Accessed 03 Nov. 
-2020. 
-"De facto." ​ Merriam-Webster's Dictionary of Law​, edited by Merriam-Webster, 2nd edition, 
-2011. ​ Credo Reference​, 
-https://search.credoreference.com/content/entry/mwdlaw/h_2_de_facto/0. Accessed 03 
-Nov. 2020. 
-"Diplomacy." ​ The Palgrave Macmillan Dictionary of Diplomacy​, G. R. Berridge, and Lorna 
-Lloyd, Macmillan Publishers Ltd, 3rd edition, 2012. ​ Credo Reference​, 
-https://search.credoreference.com/content/entry/macdiplom/diplomacy/0. Accessed 21 
-Sep. 2020. 
-Erhan, Alev, and Aaron Stein. ​ Mapping "The Kurds": An Interactive Chart​. 9 Apr. 2019, 
-www.atlanticcouncil.org/blogs/menasource/mapping-the-kurds-an-interactive-chart/.  
-Foreign Terrorist Organizations - United States Department of State​. 17 July 2020, 
-www.state.gov/foreign-terrorist-organizations/​. Accessed 03 Nov. 2020 
-“Hassan Ghul.” ​ Human Rights First​, 
-www.humanrightsfirst.org/senate-report-cia-torture/hassan-ghul​. Accessed 03 Nov. 2020 
-"Iraq criticizes plan of Kurds independence referendum". Xinhua. 9 June 2017. Accessed 15 Sep. 
-2020 
-15 
-"Legitimacy." ​ World of Sociology, Gale​, edited by Joseph M. Palmisano, Gale, 1st edition, 2001. 
-Credo Reference​, 
-https://search.credoreference.com/content/entry/worldsocs/legitimacy/0. Accessed 15 
-Sep. 2020. 
-“Montevideo Convention on the Rights and Duties of States.” ​ The Faculty of Law​, 
-www.jus.uio.no/english/services/library/treaties/01/1-02/rights-duties-states.xml​. 
-“Nepotism: Meaning in the Cambridge English Dictionary.” ​ Cambridge Dictionary​, 
-dictionary.cambridge.org/dictionary/english/nepotism. Accessed 29 Oct. 2020 
-"Paradiplomacy." ​ The Palgrave Macmillan Dictionary of Diplomacy​, G. R. Berridge, and Lorna 
-Lloyd, Macmillan Publishers Ltd, 3rd edition, 2012. ​ Credo Reference​, 
-https://search.credoreference.com/content/entry/macdiplom/paradiplomacy/0. Accessed 
-21 Sep. 2020. 
-Peshmerga Reform​. International Security Sector Advisory Team. 
-issat.dcaf.ch/download/141717/2903611/Peshmerga%20Reform%20Overview%20%28I
-SSAT%29.pdf. Accessed 01 Nov. 2020 
-States and Social Revolutions​, by Theta Skocpol, Cambridge Univ Press, 2015.  
-"Sovereignty." ​ Key Concepts in Governance​, Mark Bevir, Sage UK, 1st edition, 2008. ​ Credo 
-Reference​, https://search.credoreference.com/content/entry/sageukgov/sovereignty/0. 
-Accessed 03 Nov. 2020. 
-16 
-“The Parastin and Zanyari Intelligence Organizations.” ​ Kurdistan Region Security Council​, 
-krsc.gov.krd/parastin-zanyari/. Accessed 03 Nov. 2020 
-Weber, Max. ​ Politics As a Vocation​. Philadelphia: Fortress Press, 1965. Print. 
-Wu, Wenyuan. “Collapsing Oil Prices and Political Deadlock Leave Iraqi Elites Exposed.” 
-International Policy Digest​, 28 May 2020, 
-intpolicydigest.org/2020/05/27/collapsing-oil-prices-and-political-deadlock-leave-iraqi-elit
-es-exposed/.  Accessed 27 Oct. 2020
+<em id="Citation">“1st </em>And 2nd Peshmerga Brigades Re-Unify for First Time after Kirkuk Fallout.” SOFREP​, 12 
+Feb. 2020, sofrep.com/news/1st-2nd-peshmerga-brigades-re-unify-first-time-kirkuk-fallout/. Accessed 27 Oct. 2020   
+
+Aydoğan, Bekir. The Iraqi Kurds' Destructive Infighting: Causes and Consequences​. 17 Apr. 2020, blogs.lse.ac.uk/mec/2020/04/15/the-iraqi-kurds-destructive-infighting-causes-and-consequences/. Accessed 03 Nov. 2020   
+
+CJTF-OIR Press Release. Public Affairs Office, 14 Dec. 2019, www.inherentresolve.mil/Portals/14/Documents/Coalition%20Highlights/2019/12%20December/CJTF-OIR%20Press%20Release%2020191214-01-Highlights%20from%20Arou
+nd%20the%20Coalition.pdf?ver=2019-12-28-032025-610​. Accessed 02 Nov. 2020   
+
+Constitution of Iraq 2005. Art./Amend. 121, Fifth.   
+
+"Convention on Rights and Duties of States adopted by the Seventh International Conference of American States". United Nations Treaty Series, Registration Number:3802.
+
+"De jure." ​ Merriam-Webster's Dictionary of Law​, edited by Merriam-Webster, 2nd edition, 2011. Credo Reference​, https://search.credoreference.com/content/entry/mwdlaw/de_jure/0. Accessed 03 Nov. 2020.   
+
+"De facto." ​ Merriam-Webster's Dictionary of Law​, edited by Merriam-Webster, 2nd edition, 2011. ​ Credo Reference​, https://search.credoreference.com/content/entry/mwdlaw/h_2_de_facto/0. Accessed 03 Nov. 2020.   
+
+"Diplomacy." ​ The Palgrave Macmillan Dictionary of Diplomacy​, G. R. Berridge, and Lorna Lloyd, Macmillan Publishers Ltd, 3rd edition, 2012. ​ Credo Reference​, https://search.credoreference.com/content/entry/macdiplom/diplomacy/0. Accessed 21 Sep. 2020.   
+
+Erhan, Alev, and Aaron Stein. ​ Mapping "The Kurds": An Interactive Chart​. 9 Apr. 2019, www.atlanticcouncil.org/blogs/menasource/mapping-the-kurds-an-interactive-chart/.    
+
+Foreign Terrorist Organizations - United States Department of State​. 17 July 2020, www.state.gov/foreign-terrorist-organizations/​. Accessed 03 Nov. 2020 
+
+“Hassan Ghul.” ​ Human Rights First​, www.humanrightsfirst.org/senate-report-cia-torture/hassan-ghul​. Accessed 03 Nov. 2020   
+
+"Iraq criticizes plan of Kurds independence referendum". Xinhua. 9 June 2017. Accessed 15 Sep. 2020  
+
+"Legitimacy." ​ World of Sociology, Gale​, edited by Joseph M. Palmisano, Gale, 1st edition, 2001. Credo Reference​, https://search.credoreference.com/content/entry/worldsocs/legitimacy/0. Accessed 15 Sep. 2020.   
+
+“Montevideo Convention on the Rights and Duties of States.” ​ The Faculty of Law​, www.jus.uio.no/english/services/library/treaties/01/1-02/rights-duties-states.xml​.   
+
+“Nepotism: Meaning in the Cambridge English Dictionary.” ​ Cambridge Dictionary​, dictionary.cambridge.org/dictionary/english/nepotism. Accessed 29 Oct. 2020 
+
+"Paradiplomacy." ​ The Palgrave Macmillan Dictionary of Diplomacy​, G. R. Berridge, and Lorna Lloyd, Macmillan Publishers Ltd, 3rd edition, 2012. ​ Credo Reference​, https://search.credoreference.com/content/entry/macdiplom/paradiplomacy/0. Accessed 21 Sep. 2020.   
+
+Peshmerga Reform​. International Security Sector Advisory Team. issat.dcaf.ch/download/141717/2903611/Peshmerga%20Reform%20Overview%20%28ISSAT%29.pdf. Accessed 01 Nov. 2020 States and Social Revolutions​, by Theta Skocpol, Cambridge Univ Press, 2015.  
+
+"Sovereignty." ​ Key Concepts in Governance​, Mark Bevir, Sage UK, 1st edition, 2008. ​ Credo Reference​, https://search.credoreference.com/content/entry/sageukgov/sovereignty/0. Accessed 03 Nov. 2020.   
+
+“The Parastin and Zanyari Intelligence Organizations.” ​ Kurdistan Region Security Council​, krsc.gov.krd/parastin-zanyari/. Accessed 03 Nov. 2020   
+
+Weber, Max. ​ Politics As a Vocation​. Philadelphia: Fortress Press, 1965. Print.   
+
+Wu, Wenyuan. “Collapsing Oil Prices and Political Deadlock Leave Iraqi Elites Exposed.” International Policy Digest​, 28 May 2020, intpolicydigest.org/2020/05/27/collapsing-oil-prices-and-political-deadlock-leave-iraqi-elites-exposed/. Accessed 27 Oct. 2020
+
+
