@@ -1,7 +1,22 @@
 ---
 layout: page
+navbar-links:
+  Homepage: "https://raisschultz.github.io/"
+  Project Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
+  Discussion of the Technology: 
+    - Benefits: "https://raisschultz.github.io/projectALPR/benefits/"
+    - Legal Concerns and Implications: "https://raisschultz.github.io/projectALPR/legalconcerns/"
+    - Social and Political Concerns and Implications: "https://raisschultz.github.io/projectALPR/socialethicalconcerns/"
+    - Technological Concerns and Implications: "https://raisschultz.github.io/projectALPR/technologicalconcerns/"
+  Technology Examples:
+    - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
+    - Border Patrol Use: "https://raisschultz.github.io/projectALPR/borderpatrolalprs/"
+  Ethical Perspectives:
+    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
+    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
+  Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
 title: Evaluation and Proposed Changes 
-permalink: /proposedchanges/
+permalink: /projectALPR/proposedchanges/
 ---
 # Evaluation of the Technology
 ALPR technology provides legitimate public safety benefits, especially at the community level. Local departments and campus agencies use ALPRs to recover stolen vehicles, respond to Amber and Silver Alerts, and support targeted investigations.
