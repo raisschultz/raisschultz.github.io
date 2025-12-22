@@ -14,8 +14,9 @@ navbar-links:
   Ethical Perspectives:
     - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
     - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
-  Bibliography: "https://raisschultz.github.io/bibliography/"
+  Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
 title: Automatic License Plate Readers (ALPRs) 
+
 ---
 ![Flock Camera](https://raisschultz.github.io/assets/img/flockcamera.png)
 <sub>(Flock Safety)</sub>
