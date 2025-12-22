@@ -18,7 +18,7 @@ Table of Contents:
 * **Works Cited** <sup id="Citation"><a href="Citation">Take Me There</a></sup>
 
 # **Introduction to Kurdistan**
-  <id="Intro">The </>Republic of Iraq is the de jure government of the territory of Iraq, and the de facto 
+  <p id="Intro">The </p>Republic of Iraq is the de jure government of the territory of Iraq, and the de facto 
 authority of most of Iraq, excluding the Kurdish Autonomous Region. De jure is defined as “in 
 accordance with the law”, and de facto is the exercise of power, though not formally recognised 
 (Merriam-Webster). The Kurdistan Regional Government (KRG) is the de facto administrative 
