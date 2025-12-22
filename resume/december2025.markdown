@@ -4,7 +4,7 @@ title: Resume (Updated 12/22/25)
 permalink: /resume/december2025/
 ---
 **Michael Schultz**
-Alexandria, VA | 571 551 8409 |  mschul6@gmu.edu | linkedin.com/in/themichaelaschultz/  github.com/raisschultz
+Alexandria, VA | 571 551 8409 |  mschul6@gmu.edu | linkedin.com/in/themichaelaschultz/ | github.com/raisschultz
 ### Education 
 
 * Bachelor of Applied Science (BAS), Cybersecurity - Expected May 2027
