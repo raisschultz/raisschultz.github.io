@@ -9,12 +9,12 @@ permalink: /IB/ee/
 ## Global Politics  
 
 ### Table of Contents:  
-* **Introduction to Kurdistan** <sup id="Intro"><a href="Intro">Take Me There</a></sup>     
-* **Max Weber and the State** <sup id="Weber"><a href="Weber">Take Me There</a></sup>  
-* **Theta Skocpol and the State** <sup id="Skocpol"><a href="Skocpol">Take Me There</a></sup>  
-* **The Montevideo Convention and the State** <sup id="Montevideo"><a href="Montevideo">Take Me There</a></sup>  
-* **Conclusion** <sup id="Conclusion"><a href="Conclusion">Take Me There</a></sup>  
-* **Works Cited** <sup id="Citation"><a href="Citation">Take Me There</a></sup>
+* **Introduction to Kurdistan** <sup id="Intro"><a href="#Intro">Take Me There</a></sup>     
+* **Max Weber and the State** <sup id="Weber"><a href="#Weber">Take Me There</a></sup>  
+* **Theta Skocpol and the State** <sup id="Skocpol"><a href="#Skocpol">Take Me There</a></sup>  
+* **The Montevideo Convention and the State** <sup id="Montevideo"><a href="#Montevideo">Take Me There</a></sup>  
+* **Conclusion** <sup id="Conclusion"><a href="#Conclusion">Take Me There</a></sup>  
+* **Works Cited** <sup id="Citation"><a href="#Citation">Take Me There</a></sup>
 
 # **Introduction to Kurdistan**
   <em id="Intro">The </em>Republic of Iraq is the de jure government of the territory of Iraq, and the de facto 
