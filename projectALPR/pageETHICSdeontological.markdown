@@ -1,7 +1,22 @@
 ---
 layout: page
+navbar-links:
+  Homepage: "https://raisschultz.github.io/"
+  Project Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
+  Discussion of the Technology: 
+    - Benefits: "https://raisschultz.github.io/projectALPR/benefits/"
+    - Legal Concerns and Implications: "https://raisschultz.github.io/projectALPR/legalconcerns/"
+    - Social and Political Concerns and Implications: "https://raisschultz.github.io/projectALPR/socialethicalconcerns/"
+    - Technological Concerns and Implications: "https://raisschultz.github.io/projectALPR/technologicalconcerns/"
+    - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
+  Technology Examples:
+    - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
+    - Border Patrol Use: "https://raisschultz.github.io/projectALPR/borderpatrolalprs/"
+  Ethical Perspectives:
+    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
+  Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
 title: A Deontological Perspective
-permalink: /deontologicallens/
+permalink: /projectALPR/deontologicallens/
 ---
 # The Chilling of Civil Rights and Liberties
 
