@@ -1,7 +1,22 @@
 ---
 layout: page
+navbar-links:
+  Homepage: "https://raisschultz.github.io/"
+  Project Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
+  Discussion of the Technology: 
+    - Legal Concerns and Implications: "https://raisschultz.github.io/projectALPR/legalconcerns/"
+    - Social and Political Concerns and Implications: "https://raisschultz.github.io/projectALPR/socialethicalconcerns/"
+    - Technological Concerns and Implications: "https://raisschultz.github.io/projectALPR/technologicalconcerns/"
+    - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
+  Technology Examples:
+    - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
+    - Border Patrol Use: "https://raisschultz.github.io/projectALPR/borderpatrolalprs/"
+  Ethical Perspectives:
+    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
+    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
+  Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
 title: Benefits
-permalink: /benefits/
+permalink: /projectALPR/benefits/
 ---
 Automated License Plate Readers (ALPRs) provide several benefits to law enforcement agencies and federal authorities. By automating what officers previously had to do manually and be present to capture, ALPRs allow officers to work faster, and more efficiently. According to the Department of Homeland Security (DHS), ALPR systems capture plate numbers and vehicle data in real time and instantly compare them against criminal databases, speeding up investigations and improve officer’s abilities to identify vehicles associated with theft, trafficking and other illegal activity.<sup id="fn1_ref"><a href="#fn1">1</a></sup> The DHS also states that the adoption of ALPR technology for federal agencies is necessary because it captures data that officers and agents could not reliably capture on their own; on high volume roadways and ports of entry, and is a key tool for targeted and efficient public safety.<sup id="fn1_ref"><a href="#fn1">1</a></sup>
 
