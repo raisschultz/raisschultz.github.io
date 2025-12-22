@@ -4,7 +4,7 @@ title: Extended Essay
 permalink: /IB/ee/
 ---
 # Kurdistan as a de facto state in Iraq  
-## To What extent can the KRG be considered a de facto state?  
+## To what extent can the KRG be considered a de facto state?  
 
 ## Global Politics  
 ## May 2021  
