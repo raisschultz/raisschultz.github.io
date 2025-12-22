@@ -19,7 +19,7 @@ navbar-links:
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
   Case Studies: 
-    - Case Study: "https://raisschultz.github.io/casestudy/Stuxnet/"
+    - Case Study: "https://raisschultz.github.io/casestudies/Stuxnet/"
 title: Michael Schultz
 ---
 
