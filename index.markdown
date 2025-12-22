@@ -4,20 +4,13 @@
 # THIS IS THE HOME PAGE. 
 layout: home
 navbar-links:
-  Discussion of the Technology: 
-    - Benefits: "https://raisschultz.github.io/benefits/"
-    - Legal Concerns and Implications: "https://raisschultz.github.io/legalconcerns/"
-    - Social and Political Concerns and Implications: "https://raisschultz.github.io/socialethicalconcerns/"
-    - Technological Concerns and Implications: "https://raisschultz.github.io/technologicalconcerns/"
-    - Proposed Changes and Improvements: "https://raisschultz.github.io/proposedchanges/"
-  Technology Examples:
-    - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
-    - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
-  Ethical Perspectives:
-    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/utilitarianlens"
-    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/deontologicallens"
-  Bibliography: "https://raisschultz.github.io/bibliography/"
-title: Automatic License Plate Readers (ALPRs) 
+  Resume: "https://raisschultz.github.io/resume/december2025/" 
+  Projects:
+    - Automated License Plate Readers: "https://raisschultz.github.io/projectALPR/introduction/"
+    - Extended Essay: "https://raisschultz.github.io/IB/ee/"
+  Case Studies: 
+    - Case Study: "https://raisschultz.github.io/FISMA/placeholder/"
+title: Michael Schultz
 ---
 ![Flock Camera](https://raisschultz.github.io/assets/img/flockcamera.png)
 <sub>(Flock Safety)</sub>
