@@ -7,9 +7,8 @@ permalink: /IB/ee/
 ## To what extent can the KRG be considered a de facto state?  
 
 ## Global Politics  
-## May 2021  
 
-Table of Contents:  
+### Table of Contents:  
 * **Introduction to Kurdistan** <sup id="Intro"><a href="Intro">Take Me There</a></sup>     
 * **Max Weber and the State** <sup id="Weber"><a href="Weber">Take Me There</a></sup>  
 * **Theta Skocpol and the State** <sup id="Skocpol"><a href="Skocpol">Take Me There</a></sup>  
