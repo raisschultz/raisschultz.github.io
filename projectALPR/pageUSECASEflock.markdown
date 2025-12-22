@@ -1,7 +1,22 @@
 ---
 layout: page
+navbar-links:
+  Homepage: "https://raisschultz.github.io/"
+  Project Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
+  Discussion of the Technology: 
+    - Benefits: "https://raisschultz.github.io/projectALPR/benefits/"
+    - Legal Concerns and Implications: "https://raisschultz.github.io/projectALPR/legalconcerns/"
+    - Social and Political Concerns and Implications: "https://raisschultz.github.io/projectALPR/socialethicalconcerns/"
+    - Technological Concerns and Implications: "https://raisschultz.github.io/projectALPR/technologicalconcerns/"
+    - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
+  Technology Examples:
+    - Border Patrol Use: "https://raisschultz.github.io/projectALPR/borderpatrolalprs/"
+  Ethical Perspectives:
+    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/utilitarianlens"
+    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
+  Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
 title: Flock Camera ALPRs in Virginia
-permalink: /flockalprs/
+permalink: /projectALPR/flockalprs/
 ---
 Flock Safety’s Automatic License Plate Readers (ALPRs) have become widespread across neighbourhoods, towns, cities, and communities across the United States, including around our very own campuses at George Mason and throughout Virginia. According to GMU Campus PD, there are currently 23 ALPRs in use around the Fairfax campus.<sup id="fn1_ref"><a href="#fn1">1</a></sup>
 
