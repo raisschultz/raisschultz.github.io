@@ -105,7 +105,7 @@ proper medical corps and C.C.C. (command, control, communications) system (CJTF-
 Release). The division between Peshmerga corps has been detrimental to these efforts.  
 
 # **Max Weber and the State**  
-  <sup id="Weber">In </sup> order to answer the question of whether the KRG can be considered a de facto state, 
+  <em id="Weber">In </em> order to answer the question of whether the KRG can be considered a de facto state, 
 we must define what a state is. There are several valid definitions of a state that differ in their 
 criteria. For the purpose of this essay, we will use three definitions of a state, based on different 
 approaches to global politics. In the first part of the essay, we will use Max Weber’s definition of 
@@ -155,7 +155,7 @@ Peshmerga is not seen as fully legitimate within its own jurisdiction,  the KRG 
 monopoly on the use of legitimate force within its territory.
 
 # **Theta Skocpol and the State**  
-  <sup id="Skocpol">A </sup>second proposed, and widely accepted definition of statehood comes from the 
+  <em id="Skocpol">A </em>second proposed, and widely accepted definition of statehood comes from the 
 sociologist Theta Skocpol. Theta Skocpol states that the state is “a set of administrative, policing, 
 and military organizations headed, and more or less well coordinated by, an executive authority.” 
 (States and Social Revolutions) This definition of a state also relies on the internal sovereignty of 
@@ -202,7 +202,7 @@ ruling political dynasties weaken the organisational structure, and make effecti
 very difficult. 
 
 # **The Montevideo Convention and the State**    
-  <sup id="Montevideo">The </sup> Montevideo Convention of the Rights and Duties of States provides an alternative 
+  <em id="Montevideo">The </em> Montevideo Convention of the Rights and Duties of States provides an alternative 
 definition that is widely accepted, due to its status as an official UN treaty that dictates the 
 considerations of states by the UN and any associated regimes. The Montevideo Convention is 
 often used by nations to justify their statehood and maintain sovereignty, even in cases where 
@@ -258,7 +258,7 @@ may carry on some external relations through paradiplomacy, none of these would 
 the consent of Iraq.  
 
 # **Conclusion**   
-  <sup id="Conclusion">To </sup>some extent, the KRG can be considered to be a de facto state. The KRG qualifies as a 
+  <em id="Conclusion">To </em>some extent, the KRG can be considered to be a de facto state. The KRG qualifies as a 
 state under both Max Weber’s and Theda Skocpol’s definitions of a state, however only under 
 the loosest conditions. There are arguments to be made that can weaken the overall 
 consideration, however it remains that the KRG has the ability to exercise legal violence and 
@@ -272,7 +272,7 @@ relies on a state for its powers.
 
 # **Works Cited**   
 
-<sup id="Citation">“1st </sup>And 2nd Peshmerga Brigades Re-Unify for First Time after Kirkuk Fallout.” ​ SOFREP​, 12 
+<em id="Citation">“1st </em>And 2nd Peshmerga Brigades Re-Unify for First Time after Kirkuk Fallout.” ​ SOFREP​, 12 
 Feb. 2020, 
 sofrep.com/news/1st-2nd-peshmerga-brigades-re-unify-first-time-kirkuk-fallout/. 
 Accessed 27 Oct. 2020 
