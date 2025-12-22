@@ -3,7 +3,7 @@ layout: page
 title: Resume (Updated 12/22/25)
 permalink: /resume/december2025/
 ---
-**Michael Schultz**
+**Michael Schultz**  
 Alexandria, VA | 571 551 8409 |  mschul6@gmu.edu | linkedin.com/in/themichaelaschultz/ | github.com/raisschultz
 ### Education 
 
