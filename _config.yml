@@ -18,26 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Automatic License Plate Readers 
-author: Austin Chura, Madeleine Gordillo, Kian Mojami, Michael Schultz
-description: >- # this means to ignore newlines until "baseurl:"
-  This site is created for the IT304 Final Project by Team 1. This project outlines the automatic license plate reader (ALPR) technology, and the ethical debates surrounding their use. 
+author: Michael Schultz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 navbar-links:
-  Discussion of the Technology: 
-    - Benefits: "https://raisschultz.github.io/benefits/"
-    - Legal Concerns and Implications: "https://raisschultz.github.io/legalconcerns/"
-    - Social and Political Concerns and Implications: "https://raisschultz.github.io/socialethicalconcerns/"
-    - Technological Concerns and Implications: "https://raisschultz.github.io/technologicalconcerns/"
-    - Proposed Changes and Improvements: "https://raisschultz.github.io/proposedchanges/"
-  Technology Examples:
-    - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
-    - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
-  Ethical Perspectives:
-    - A Utilitarian Perspective on ALPRs: "https://raisschultz.github.io/utilitarianlens"
-    - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/deontologicallens"
-  Bibliography: "https://raisschultz.github.io/bibliography/"
+  Resume: "https://raisschultz.github.io/resume/december2025/" 
+  Projects:
+    - Automated License Plate Readers: "https://raisschultz.github.io/projectALPR/introduction/"
+    - Extended Essay: "https://raisschultz.github.io/IB/ee/"
+  Case Studies: 
+    - Case Study: "https://raisschultz.github.io/FISMA/placeholder/"
 
 excerpt-length: 30 # Length of blog posts displayed on home page in words
 
