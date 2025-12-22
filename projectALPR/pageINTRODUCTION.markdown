@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: 
+permalink: /projectALPR/introduction/
 navbar-links:
   Discussion of the Technology: 
     - Benefits: "https://raisschultz.github.io/benefits/"
