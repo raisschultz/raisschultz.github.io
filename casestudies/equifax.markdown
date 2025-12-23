@@ -95,7 +95,6 @@ National Institute of Standards and Technology. (2011). Information security con
 Srinivasan, S., Pitcher, Q., & Goldberg, J. S. (2019). Data breach at Equifax. Harvard Business School. Case No. 9-118-031  
 
 
-<object data="https://raisschultz.github.io/assets/pdf/EQUIFAX.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 
