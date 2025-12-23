@@ -3,8 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # THIS IS THE HOME PAGE. 
 layout: home
-navbar-links:
-  Resume: "https://raisschultz.github.io/resume/december2025/" 
+navbar-links: 
+  Case Studies: 
+    - Equifax: "https://raisschultz.github.io/casestudies/Equifax/"
+    - Stuxnet: "https://raisschultz.github.io/casestudies/Stuxnet/"
+    - FireEye: "https://raisschultz.github.io/casestudies/FireEye/"
   Automated License Plate Readers: 
     - Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
     - Example 1 - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
@@ -17,11 +20,11 @@ navbar-links:
     - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
     - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
+  Pedestrian Infrastructure: 
+    - Research Proposal: "https://raisschultz.github.io/research/pedestrianinfrastructureproposal/"
+    - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
-  Case Studies: 
-    - Equifax: "https://raisschultz.github.io/casestudies/Equifax/"
-    - Stuxnet: "https://raisschultz.github.io/casestudies/Stuxnet/"
-    - FireEye: "https://raisschultz.github.io/casestudies/FireEye/"
+  Resume: "https://raisschultz.github.io/resume/december2025/"
 title: Michael Schultz
 ---
 
