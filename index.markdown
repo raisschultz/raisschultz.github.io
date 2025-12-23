@@ -26,13 +26,10 @@ navbar-links:
     - Research Proposal: "https://raisschultz.github.io/research/pedestrianinfrastructureproposal/"
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
-title: Michael Schultz
 
 social-network-links:
   github: raisschultz
   linkedin: themichaelschultz
   discord: "raisdasmonjier"
 ---
-
-<iframe src="https://visitedplaces.com/embed/?map=world&projection=geoNaturalEarth1&theme=dark-yellow&water=0&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=0&autozoom=none&autostep=0&home=US&places=~US.daaa44_MX_GB_FR_DE_NL_BE_LU_ES_PT_IT_MT_SI_HR_ME_AT_CH_CZ_PL_SK_HU_MA_SE_DK_EE_JP_CN_TW_KR_TH_AD_LI_VA_CA_GR_IE_NO_LT_LV_UA_TR_IQ_AE_IL_IS" style="width: 100%; height: 600px;"></iframe>
 
