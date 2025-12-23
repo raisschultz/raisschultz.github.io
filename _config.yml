@@ -22,8 +22,11 @@ title: Home # edits top left clickable to home
 author: Michael Schultz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-navbar-links:
-  Resume: "https://raisschultz.github.io/resume/december2025/" 
+navbar-links: 
+  Case Studies: 
+    - Equifax: "https://raisschultz.github.io/casestudies/Equifax/"
+    - Stuxnet: "https://raisschultz.github.io/casestudies/Stuxnet/"
+    - FireEye: "https://raisschultz.github.io/casestudies/FireEye/"
   Automated License Plate Readers: 
     - Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
     - Example 1 - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
@@ -36,12 +39,12 @@ navbar-links:
     - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
     - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
+  Pedestrian Infrastructure: 
+    - Research Proposal: "https://raisschultz.github.io/pedestrian/poster/"
+    - Poster: "https://raisschultz.github.io/pedestrian/poster/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
-  Case Studies: 
-    - Equifax: "https://raisschultz.github.io/casestudies/Equifax/"
-    - Stuxnet: "https://raisschultz.github.io/casestudies/Stuxnet/"
-    - FireEye: "https://raisschultz.github.io/casestudies/FireEye/"
-
+  Resume: "https://raisschultz.github.io/resume/december2025/"
+ 
 # Modify the appearance of the page
 
 
