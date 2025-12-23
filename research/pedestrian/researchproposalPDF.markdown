@@ -1,0 +1,4 @@
+---
+
+permalink: /research/pedestrian/PDF/
+---
