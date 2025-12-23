@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # THIS IS THE HOME PAGE. 
 layout: home
+
 navbar-links: 
   Automated License Plate Readers: 
     - Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
@@ -26,6 +27,11 @@ navbar-links:
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
 title: Michael Schultz
+
+social-network-links:
+  github: raisschultz
+  linkedin: themichaelschultz
+  discord: "raisdasmonjier"
 ---
 
-Flavor text 
+
