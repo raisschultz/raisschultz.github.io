@@ -28,7 +28,7 @@ navbar-links:
   Resume: "https://raisschultz.github.io/resume/december2025/"
 
 ---
-<!doctype html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -44,6 +44,13 @@ navbar-links:
       --text: rgba(255,255,255,.92);
       --muted: rgba(255,255,255,.72);
       --ring: rgba(255,255,255,.14);
+
+            /* TEMP: hide existing global footer during placeholder */
+footer,
+.site-footer,
+.page-footer,
+#footer {
+  display: none !important;
     }
 
   *{ box-sizing: border-box; }
@@ -147,4 +154,5 @@ navbar-links:
       border: 1px solid var(--ring);
       background: rgba(255,255,255,.06);
       b
+
 
