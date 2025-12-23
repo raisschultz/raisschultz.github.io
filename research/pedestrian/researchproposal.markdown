@@ -5,6 +5,8 @@ permalink: /research/pedestrianinfrastructureproposal/
 ---
 # Adapting Pedestrian Infrastructure for Inclement Weather on College Campuses  
 
+[PDF Version](https://raisschultz.github.io/research/pedestrian/PDF/)
+
 ## **Introduction**  
 Driving remains the dominant mode of transportation in the United States and other forms of mobility such as walking and biking have often been overlooked in infrastructure planning and design. There has been extensive research conducted on exploring ways to optimize traffic systems for vehicles - improving safety, speed, and efficiency, however most studies have approached these questions from the driver’s perspective, focusing on issues such as signal timing and intersection performance. Pedestrians have historically been marginalized in transportation research and planning.  
 
