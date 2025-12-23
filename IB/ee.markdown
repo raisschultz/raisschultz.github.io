@@ -6,7 +6,7 @@ permalink: /IB/ee/
 # Kurdistan as a de facto state in Iraq
 ## To what extent can the KRG be considered a de facto state?  
 
-[PDF Viewer](https://raisschultz.github.io/IB/eePDF/)
+[PDF HERE](https://raisschultz.github.io/IB/eePDF/)
 
 ### Table of Contents:  
 * **Introduction to Kurdistan**    
