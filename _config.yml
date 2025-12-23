@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Home # edits top left clickable to home 
-author: Michael Schultz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raisschultz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 navbar-links: 
