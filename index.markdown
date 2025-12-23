@@ -27,9 +27,5 @@ navbar-links:
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
 
-social-network-links:
-  github: raisschultz
-  linkedin: themichaelschultz
-  discord: "raisdasmonjier"
 ---
 
