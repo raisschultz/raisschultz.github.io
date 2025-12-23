@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Extended Essay PDF
-permalink: /IB/ee/
+permalink: /IB/eePDF/
 ---
 
 PDF Reader for Readability:
