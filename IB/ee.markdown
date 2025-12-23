@@ -6,6 +6,8 @@ permalink: /IB/ee/
 # Kurdistan as a de facto state in Iraq
 ## To what extent can the KRG be considered a de facto state?  
 
+[PDF Viewer](https://raisschultz.github.io/ib/eePDF/)
+
 ### Table of Contents:  
 * **Introduction to Kurdistan**    
 * **Max Weber and the State**   
