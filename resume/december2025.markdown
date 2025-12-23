@@ -4,6 +4,9 @@ title: Resume
 permalink: /resume/december2025/
 ---
 ### *(Updated 12/22/25)*
+
+[PDF HERE}(https://raisschultz.github.io/resume/pdf)
+
 # **Michael Schultz**  
 Alexandria, VA | 571 551 8409 |  mschul6@gmu.edu 
 ### Education 
