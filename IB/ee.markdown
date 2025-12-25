@@ -9,14 +9,14 @@ permalink: /IB/ee/
 [PDF Version](https://raisschultz.github.io/IB/eePDF/)
 
 ### Table of Contents:  
-* **Introduction to Kurdistan**    
-* **Max Weber and the State**   
-* **Theta Skocpol and the State** 
-* **The Montevideo Convention and the State**  
-* **Conclusion** 
-* **Works Cited** 
+* <a href="#Intro">Introduction to Kurdistan</a>         
+* <a href="#Weber">Max Weber and the State</a>       
+* <a href="#Skocpol">Theta Skocpol and the State</a>      
+* <a href="#Montevideo">The Montevideo Convention and the State</a>      
+* <a href="#Conclusion">Conclusion</a>        
+* <a href="#Cited">Works Cited</a>    
 
-# **Introduction to Kurdistan**
+# <b id="Intro">Introduction to Kurdistan</b>
   The Republic of Iraq is the de jure government of the territory of Iraq, and the de facto 
 authority of most of Iraq, excluding the Kurdish Autonomous Region. De jure is defined as “in 
 accordance with the law”, and de facto is the exercise of power, though not formally recognised 
@@ -256,7 +256,7 @@ exercise external sovereignty without the permission of the de jure government i
 may carry on some external relations through paradiplomacy, none of these would exist without 
 the consent of Iraq.  
 
-# **Conclusion**   
+# <b id="Conclusion">Conclusion</b>   
   To some extent, the KRG can be considered to be a de facto state. The KRG qualifies as a 
 state under both Max Weber’s and Theda Skocpol’s definitions of a state, however only under 
 the loosest conditions. There are arguments to be made that can weaken the overall 
