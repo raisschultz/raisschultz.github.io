@@ -103,7 +103,7 @@ As of 2014, the Peshmerga has been able to begin upgrading its arsenal, as well 
 proper medical corps and C.C.C. (command, control, communications) system (CJTF-OIR Press 
 Release). The division between Peshmerga corps has been detrimental to these efforts.  
 
-# **Max Weber and the State**  
+# <b id="Weber">Max Weber and the State</b>  
   In order to answer the question of whether the KRG can be considered a de facto state, 
 we must define what a state is. There are several valid definitions of a state that differ in their 
 criteria. For the purpose of this essay, we will use three definitions of a state, based on different 
@@ -153,7 +153,7 @@ Because of this, the KRG cannot exercise complete control over its territory. Be
 Peshmerga is not seen as fully legitimate within its own jurisdiction,  the KRG does not have a 
 monopoly on the use of legitimate force within its territory.
 
-# **Theta Skocpol and the State**  
+# <b id="Skocpol">Theta Skocpol and the State</b>  
   A second proposed, and widely accepted definition of statehood comes from the 
 sociologist Theta Skocpol. Theta Skocpol states that the state is “a set of administrative, policing, 
 and military organizations headed, and more or less well coordinated by, an executive authority.” 
@@ -200,7 +200,7 @@ However, the KRG fails to qualify on the local scale, where issues among the Pes
 ruling political dynasties weaken the organisational structure, and make effective coordination 
 very difficult. 
 
-# **The Montevideo Convention and the State**    
+# <b id="Montevideo">The Montevideo Convention and the State</b>    
   The Montevideo Convention of the Rights and Duties of States provides an alternative 
 definition that is widely accepted, due to its status as an official UN treaty that dictates the 
 considerations of states by the UN and any associated regimes. The Montevideo Convention is 
@@ -269,7 +269,7 @@ be a de facto state to some extent, however as of now, the KRG cannot wield exte
 cannot be considered a state, but rather a governmental organisation that controls an area, but 
 relies on a state for its powers. 
 
-# **Works Cited**   
+# <b id="Cited">Works Cited</b>  
 
 “1st And 2nd Peshmerga Brigades Re-Unify for First Time after Kirkuk Fallout.” SOFREP​, 12 
 Feb. 2020, sofrep.com/news/1st-2nd-peshmerga-brigades-re-unify-first-time-kirkuk-fallout/. Accessed 27 Oct. 2020   
