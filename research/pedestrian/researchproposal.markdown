@@ -7,7 +7,32 @@ permalink: /research/pedestrianinfrastructureproposal/
 
 [PDF Version](https://raisschultz.github.io/research/pedestrian/PDF/)
 
-## **Introduction**  
+## **Table of Contents**    
+<ul>  
+  <li>  
+    <a href="#Intro">Introduction</a>  
+  </li>  
+  <li>  
+    <a href="#LitReview">Literature Review</a>  
+    <ul>  
+      <li><a href="#Factors">Identifying Safety Parameters and Walkability Factors Affected by Inclement Weather</a></li>  
+      <li><a href="#Influence">How Inclement Weather Influences Pedestrian Behavior and Exposure to Risk on Car-Dominated Campuses</a></li>  
+      <li><a href="#Choosing">Choosing and Implementing Built Environments</a></li>  
+      <li><a href="#Evaluating">Evaluating Built Environments</a></li>   
+    </ul>
+  </li>
+  <li>
+    <a href="#Method">Method</a>  
+  </li>  
+  <li>  
+    <a href="#Implications">Implications and Future Research</a>  
+  </li>  
+  <li>  
+    <a href="#References">References</a>  
+  </li>  
+</ul>   
+
+## <b id="Intro">Introduction</b>   
 Driving remains the dominant mode of transportation in the United States and other forms of mobility such as walking and biking have often been overlooked in infrastructure planning and design. There has been extensive research conducted on exploring ways to optimize traffic systems for vehicles - improving safety, speed, and efficiency, however most studies have approached these questions from the driver’s perspective, focusing on issues such as signal timing and intersection performance. Pedestrians have historically been marginalized in transportation research and planning.  
 
 This imbalance has begun to shift in recent decades, with growing emphasis on creating safer, more walkable environments. Studies such as Pollack et al. (2014) and Alhajaj and Daghistani (2021) have developed methods to assess pedestrian safety and accessibility, which integrate environmental audits with user perceptions. These studies indicate a turning point in the need to evaluate pedestrian infrastructure not only for functionality, but also for perceived safety and comfort.   
@@ -18,9 +43,9 @@ Additionally, there have been recent government initiatives, such as the Federal
 
 Therefore, the purpose of this research paper is to investigate how changes to signal timing and the addition of canopies at crossings improve pedestrian safety during inclement weather on college campuses.
 
-## **Literature Review**
+## <b id="LitReview">Literature Review</b>  
 
-### Identifying Safety Parameters and Walkability Factors Affected by Inclement Weather  
+### <b id="Factors">Identifying Safety Parameters and Walkability Factors Affected by Inclement Weather</b>  
 Pedestrian safety and walkability are key to evaluating campus transportation environments, especially during periods of inclement weather. The first step in addressing pedestrian safety is identifying which environmental and behavioral parameters are most affected by inclement weather and determining how they can be measured. Alhajaj and Daghistani (2021) provide the strongest foundation for approaching this need, by presenting a hybrid method that combines a pedestrian perception survey with a systematic environmental audit to evaluate safety and accessibility across car dominated educational institutions. Their method identifies quantifiable factors like lighting, crossing infrastructure, and sidewalk continuity and also integrates subjective perceptions of safety from pedestrians themselves, by way of the perception survey. This approach creates a framework adaptable to assessing how inclement weather changes the pedestrian experience. Their findings confirmed that the method was both replicable and sensitive to variations across institutions, which makes it an effective model for identifying location-specific safety concerns. Conducted recently, this study reflects the growing recognition of pedestrian safety as its own, important niche within campus mobility research.  
 
 Building upon this hybrid framework, Pollack et al. (2014) implemented a more comprehensive environmental audit within an urban campus context, combining crash data analysis, observational audits, and community focus groups to identify the pedestrian safety hazards. Unlike Alhajaj’s relatively simple walkability assessment audit, Pollack’s audit integrates behavioral observations and spatial design factors into a scoring system that categorized segments from “unsuitable” to “very good” for pedestrian use. Together, these studies suggest that the most effective pedestrian safety evaluations are those that can integrate physical infrastructure assessments with user perceptions of safety, and generate both qualitative, and quantitative data. The hybridization of these two methods will inform the method of this study, combining Alhajaj’s perceptual survey and upgrading their audit with Pollack’s environmental audit to establish an adaptable baseline for assessing safety and walkability under inclement weather conditions.  
@@ -29,7 +54,7 @@ Zhang, Fisher, and Wang (2023) link streetscape design and environmental quality
 
 Together, these studies establish a methodological foundation for evaluating pedestrian safety on college campuses. None of these studies explicitly integrate weather-specific parameters into their assessment frameworks, which shows the need for an assessment model capable of properly examining how environmental quality, physical factors, and pedestrian perception interact during inclement weather. The proposed study intends to build on these precedents by combining an environmental audit with perception-based surveys to assess the safety and walkability parameters of crossings under inclement weather conditions.  
 
-### How Inclement Weather Influences Pedestrian Behavior and Exposure to Risk on Car-Dominated Campuses  
+### <b id="Influence">How Inclement Weather Influences Pedestrian Behavior and Exposure to Risk on Car-Dominated Campuses</b>  
 Pedestrian safety under inclement weather conditions like rain or snow remains an underexamined aspect of transportation research, despite clear evidence that such conditions heighten risks for all road users. Most investigations of weather impacts to date have focused on vehicular performance rather than pedestrian exposure and safety. Lu, Kwon, and Fu (2019) provide an example, examining how inclement weather affects the performance of signalized intersections. Using field data collected under snowy, slushy, and normal conditions, their study revealed significant reductions in saturation flow rates and increases in startup lost times during adverse weather events. When weather-responsive signal timing plans were introduced, traffic efficiency improved measurably, particularly in coordinated corridor systems with moderate traffic volumes.  
 
 While Lu et al. (2019) focus on vehicular efficiency, their findings have significant implications for pedestrian safety. Static signal schemes that fail to adapt to environmental changes may increase pedestrian crossing risks by extending pedestrian exposure during poor conditions, and incentivising risky behaviors like jaywalking. Their method of identifying weather sensitive parameters, proposing and implementing adjustments to signal control plans, and validating the outcomes through real-world case studies provides a transferrable structure for this study’s pedestrian-oriented analysis. In campus environments where traffic flow fluctuates but remains moderate, such adaptive timing strategies could mitigate pedestrian risk by aligning crossing intervals with real-time weather impacts, as it does for vehicles.  
@@ -38,19 +63,19 @@ Complementing this systems-based perspective, Park and Ko (2020) examine how ind
 
 Together, these studies also show that the direct effect of inclement weather on pedestrian decision-making and exposure has not been examined. For campuses, which are environments that simultaneously have urban mobility and high foot traffic and also a large, regular vehicular presence, this gap is particularly critical. The proposed study will extend these findings by investigating how adaptive signal control and shelter infrastructure can mitigate pedestrian vulnerability during inclement weather, which address the behavioral and environmental dimensions of risk simultaneously.
 
-### Choosing and Implementing Built Environments   
+### <b id="Choosing">Choosing and Implementing Built Environments</b>    
 Federal and international guidance shows that carefully chosen built-environment decisions are central to supporting pedestrian safety, especially during inclement weather.  The Federal Highway Administration’s STEP guide identifies interventions such as curb extensions, high-visibility crossings, and sheltered waiting areas as foundational elements that improve visibility, reduce exposure time, and encourage proper signal compliance (FHWA, 2017). This federal standard supports expanding the concept of walkability to include weather-adaptive elements, such as canopies and responsive signal systems.  
 
 International case studies demonstrate how cities have begun implementing built-environment features that specifically address environmental exposure. Wellington’s Street Corner Canopies, developed through the New Zealand Institute of Architects and the Wellington City Council, provide protection from rain and wind while pedestrians wait to cross. This intervention has shown reductions in unsafe crossings against the signal, which suggests that shelter can support safer waiting behavior. Seoul’s “Seoripul Wondoomak” initiative similarly introduced permanent shade structures at intersections to reduce heat and rain exposure, which later evolved into multifunctional shelters equipped with lighting and misting systems. These examples show that built-environment designs can affect compliance, comfort, and overall pedestrian safety by shaping the conditions under which people wait at intersections.  
 
 Findings from Zhang, Fisher, and Wang (2023) strengthen this point by demonstrating that environmental quality, including shading and spatial continuity, significantly affects pedestrians's perceived safety and the likelihood that pedestrians choose to walk. When considered together with Lu et al.'s (2019) finding that pre-timed traffic signals perform poorly during snow or rain, the implication is that both physical shelter and adaptive signal timing contribute to reducing exposure risk during inclement weather. Infrastructure that protects pedestrians while they wait, combined with signal systems that respond appropriately to weather, creates a more reliable and safer crossing environment.  
 
-### Evaluating Built Environments   
+### <b id="Evaluating">Evaluating Built Environments</b>   
 Evaluating these interventions requires methods that capture how pedestrians experience the built environment and how they make decisions under different conditions. Anciaes and Jones (2018) offer a stated-preference approach that quantifies how pedestrians weigh delay, convenience, comfort, and safety when choosing between different crossing designs. Their framework provides a clear basis for measuring how user preferences shift when new elements, such as shelter or adjusted signal timing, are introduced.  
 
 When combined with the findings of Zhang et al. (2023), this approach allows researchers to evaluate how environmental quality interacts with structural and operational features of the intersection. Because Zhang et al. identify environmental comfort as a key factor in perceived safety, incorporating weather into the stated-preference model would make it possible to measure how rain, heat, or snow influence the choices pedestrians make while waiting to cross. Lu et al.’s (2019) demonstration that static signal plans underperform during inclement weather further supports the need for evaluation methods that consider both infrastructure and operational elements together. This combined perspective allows for a more complete assessment of how built environments function under the specific conditions that elevate risk.
 
-## **Method**  
+## <b id="Method">Method</b>   
 
 This research proposes a four-phase method to evaluate how weather-responsive infrastructure influences pedestrian safety on college campuses. The method begins with a baseline assessment that integrates both qualitative and quantitative data. First, a student perception survey modeled after Alhajaj and Daghistani’s (2021) study will be administered to capture subjective feelings of safety, comfort, visibility, and behavior during various weather conditions. The survey will use Likert-scale questions and will ask whether pedestrians feel disincentivized from crossing specific intersections during inclement weather, whether they feel safe waiting and crossing when it is raining or snowing, whether the current signal timing feels too long when conditions are uncomfortable, and whether they sometimes jaywalk during rain or snow when no cars appear to be coming. The survey will be provided through QR code posted at campus crossings as well as emailed to the campus population. In tandem, a quantitative environmental audit based on the framework developed by Pollack et al. (2014) will be conducted by the research team. This audit will document the objective crossing conditions such as lighting levels, sidewalk continuity and geometry, sightlines, signage visibility, and the presence or absence of coverage at the waiting area. These combined elements establish a baseline understanding of the walkability and environmental risks students face during inclement weather.  
 
@@ -62,7 +87,7 @@ In the fourth phase, a follow-up assessment will be conducted to evaluate change
 
 There are limitations in this approach that need to be acknowledged. The intersections chosen for observation must be carefully selected because crossings with short wait times, low pedestrian volume, or minimal vehicle traffic would not provide meaningful data on behavior under inclement weather. The survey results will also reflect a degree of response bias because individuals who choose to participate may disproportionately recall negative or unsafe experiences. Finally, pedestrian safety is influenced by factors other than weather, and some of these influences may not be fully controlled in the study. High-crime neighborhoods, aggressive driving patterns, or inconsistent enforcement of traffic rules can all affect crossing behavior and may interact with inclement weather factors in complex ways. These limitations will inform the interpretation of the data and the extent to which findings can be generalized across different environments.
 
-### Implications and Future Research   
+### <b id="Implications">Implications and Future Research</b>       
 The findings of this study have several implications for how campuses and similar environments can improve pedestrian safety during adverse weather. Because the literature shows that safety is shaped by the interaction of infrastructure, perception, and environmental context, the results of this research can inform how universities, municipalities, and transportation agencies design crossings that support safer waiting behavior during rain, snow, and other weather conditions. The integration of sheltered waiting areas with weather-responsive signal timing can provide a model for campuses where there is consistently high pedestrian activity and significant vehicle flow. These combined interventions support not only compliance and reduced exposure risk, but also a broader understanding of walkability that includes comfort and perceived safety during inclement weather.  
 
 This work also establishes a foundation for expanding weather-responsive pedestrian research beyond college campuses. Future studies can examine how different geographic regions, each with their own weather patterns, may require distinct adaptive infrastructure responses. For example, campuses in Florida or the Gulf Coast may need shelter designs that withstand hurricanes and support evacuation procedures, while universities in Tornado Alley may require structures that account for high winds and debris exposure. Campuses in Alaska or other northern regions may prioritize interventions that address extreme cold, heavy snowfall, and limited daylight. These regional variations create opportunities to test whether weather-adaptive design functions consistently across different climates or whether new design typologies are needed.  
@@ -71,7 +96,7 @@ Future research can also evaluate the effectiveness of additional built-environm
 
 By extending the method proposed, future research can continue to bridge the gap between engineering design and pedestrian experience. Such work will support the development of safer, more resilient campus environments and contribute to a broader understanding of how infrastructure can adapt to protect pedestrians as weather conditions become increasingly unpredictable.
 
-## **References**  
+## <b id="References">References</b>     
 Alhajaj, N., & Daghistani, F. (2021). Hybrid method for measuring the accessibility and safety of students’ walking routes in car-dominated campuses. URBAN DESIGN International, Vol. 26, p. 53-66.   
 
 Anciaes, P. R., & Jones, P. (2018). Estimating preferences for different types of pedestrian crossing facilities. Transportation Research Part F: Traffic Psychology and Behaviour, Vol. 52, p. 222-237.  
