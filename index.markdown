@@ -41,14 +41,6 @@ navbar-links:
     display: none !important;
   }
 
-  /* Full-screen overlay so theme content (including the footer) can't sit "in the middle" */
-  html, body {
-    margin: 0;
-    height: 100%;
-    overflow: hidden;
-    background: #0b0f17;
-  }
-
   #dvd-screen {
     position: fixed;
     inset: 0;
