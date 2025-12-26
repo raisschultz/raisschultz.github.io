@@ -27,13 +27,51 @@ navbar-links:
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
 ---
-<!-- DVD bouncing placeholder that DOES NOT cover your navbar, and hides the footer -->
-<div id="dvd-stage" aria-label="Loading placeholder">
-  <div id="dvd-logo">DVD</div>
+<!-- Full-width DVD loading page (keeps navbar), overrides theme max-width containers -->
+<div id="dvd-loading-page">
+  <div id="dvd-stage" aria-label="Loading placeholder">
+    <div id="dvd-logo">DVD</div>
+  </div>
 </div>
 
 <style>
-  /* Hide common Jekyll theme footers (navbar/header untouched) */
+  /* --- 1) Kill the theme's centered max-width constraints (common Jekyll wrappers) --- */
+  /* These selectors cover most GitHub Pages themes (minima/cayman/architect/slate/etc.) */
+  #dvd-loading-page,
+  #dvd-loading-page * {
+    box-sizing: border-box;
+  }
+
+  /* Make the page content wrappers full-width */
+  .container,
+  .wrapper,
+  .page-content,
+  .main-content,
+  .content,
+  .inner,
+  .markdown-body,
+  main,
+  article {
+    max-width: none !important;
+    width: 100% !important;
+  }
+
+  /* Remove side padding/margins that create the “middle column” look */
+  .container,
+  .wrapper,
+  .page-content,
+  .main-content,
+  .content,
+  .inner,
+  main,
+  article {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* --- 2) Hide footers (common theme selectors), but leave navbar alone --- */
   footer,
   .site-footer,
   footer.site-footer,
@@ -42,17 +80,18 @@ navbar-links:
     display: none !important;
   }
 
-  /* Stage sits BELOW the navbar; JS sets --navH dynamically */
+  /* --- 3) DVD stage: fixed full-width BELOW the navbar --- */
   :root { --navH: 0px; }
 
   #dvd-stage{
-    position: relative;
-    width: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: var(--navH);
     height: calc(100vh - var(--navH));
-    margin-top: 0;
     background: #0b0f17;
-    overflow: hidden;              /* critical: keeps logo inside bounds */
-    border-radius: 8px;            /* optional */
+    overflow: hidden;          /* keeps logo inside bounds */
+    z-index: 1;                /* below header (we bump header above in JS if needed) */
   }
 
   #dvd-logo{
@@ -74,29 +113,28 @@ navbar-links:
 
 <script>
   (function () {
-    // 1) Compute navbar height so the stage begins BELOW it (navbar stays visible/clickable)
-    const navLike = document.querySelector(
+    // Identify header/nav (covers most themes). If your theme uses something else,
+    // add its selector here.
+    const headerEl = document.querySelector(
       "header, .site-header, .page-header, nav, .navbar, .top-nav, .masthead"
     );
 
+    // Ensure header stays above the DVD stage (so navbar remains usable)
+    if (headerEl) {
+      const computed = window.getComputedStyle(headerEl);
+      if (computed.position === "static") headerEl.style.position = "relative";
+      headerEl.style.zIndex = "9999";
+    }
+
     function setNavHeight() {
-      const h = navLike ? Math.ceil(navLike.getBoundingClientRect().height) : 0;
+      const h = headerEl ? Math.ceil(headerEl.getBoundingClientRect().height) : 0;
       document.documentElement.style.setProperty("--navH", h + "px");
     }
+
     setNavHeight();
     window.addEventListener("resize", setNavHeight);
 
-    // 2) Hide footer(s) via JS too (helps if theme injects/overrides footer styles)
-    function removeFooters() {
-      document.querySelectorAll("footer, .site-footer, #footer, .page-footer").forEach(el => {
-        el.style.display = "none";
-      });
-    }
-    removeFooters();
-    // Run again shortly after load in case the theme renders late
-    window.addEventListener("load", () => setTimeout(removeFooters, 50));
-
-    // 3) Bounce the logo INSIDE the stage bounds (not the whole viewport)
+    // Bounce inside #dvd-stage bounds (not the theme container)
     const stage = document.getElementById("dvd-stage");
     const logo  = document.getElementById("dvd-logo");
 
@@ -109,11 +147,10 @@ navbar-links:
 
       x += vx; y += vy;
 
-      // bounce + clamp
-      if (x <= 0)     { x = 0;    vx = Math.abs(vx); }
-      if (x >= maxX)  { x = maxX; vx = -Math.abs(vx); }
-      if (y <= 0)     { y = 0;    vy = Math.abs(vy); }
-      if (y >= maxY)  { y = maxY; vy = -Math.abs(vy); }
+      if (x <= 0)    { x = 0;    vx = Math.abs(vx); }
+      if (x >= maxX) { x = maxX; vx = -Math.abs(vx); }
+      if (y <= 0)    { y = 0;    vy = Math.abs(vy); }
+      if (y >= maxY) { y = maxY; vy = -Math.abs(vy); }
 
       logo.style.left = x + "px";
       logo.style.top  = y + "px";
