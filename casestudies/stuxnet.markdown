@@ -2,7 +2,6 @@
 layout: page
 title: Stuxnet 
 permalink: /casestudies/Stuxnet/
-authors: Michael Schultz, Contributors - Abdullah Shahid, Huy Tran, Jorge Vargas
 ---
 # Stuxnet Case Study 
 
