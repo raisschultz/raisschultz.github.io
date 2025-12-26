@@ -27,55 +27,92 @@ navbar-links:
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
 ---
-<div id="screen">
-  <div id="dvd">DVD</div>
+<div id="dvd-screen" aria-label="Loading placeholder">
+  <div id="dvd-logo">DVD</div>
 </div>
 
 <style>
+  /* Hide common Jekyll theme footers WITHOUT touching nav/header */
+  footer,
+  .site-footer,
+  footer.site-footer,
+  #footer,
+  .page-footer {
+    display: none !important;
+  }
+
+  /* Full-screen overlay so theme content (including the footer) can't sit "in the middle" */
   html, body {
     margin: 0;
     height: 100%;
-    background: #0b0f17;
     overflow: hidden;
+    background: #0b0f17;
   }
 
-  #screen {
-    position: relative;
-    width: 100%;
-    height: 100%;
+  #dvd-screen {
+    position: fixed;
+    inset: 0;
+    z-index: 999999; /* above theme content */
+    background: #0b0f17;
   }
 
-  #dvd {
+  #dvd-logo {
     position: absolute;
-    font: 700 28px/1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    left: 0;
+    top: 0;
+
+    font: 800 28px/1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     color: #e8eefc;
-    padding: 10px 14px;
     border: 2px solid #e8eefc;
-    border-radius: 4px;
+    border-radius: 6px;
+    padding: 10px 14px;
+
     user-select: none;
+    -webkit-user-select: none;
+    cursor: default;
   }
 </style>
 
 <script>
-  const dvd = document.getElementById("dvd");
+  (function () {
+    const logo = document.getElementById("dvd-logo");
 
-  let x = 50, y = 50;
-  let vx = 2, vy = 2;
+    // Start position & velocity
+    let x = 30, y = 30;
+    let vx = 2.2, vy = 2.0;
 
-  function animate() {
-    const rect = dvd.getBoundingClientRect();
-    const maxX = window.innerWidth - rect.width;
-    const maxY = window.innerHeight - rect.height;
+    function step() {
+      const w = logo.offsetWidth;
+      const h = logo.offsetHeight;
 
-    x += vx;
-    y += vy;
+      const maxX = Math.max(0, window.innerWidth - w);
+      const maxY = Math.max(0, window.innerHeight - h);
 
-    if (x <= 0 || x >= maxX) vx *= -1;
-    if (y <= 0 || y >= maxY) vy *= -1;
+      x += vx;
+      y += vy;
 
-    dvd.style.transform = `translate(${x}px, ${y}px)`;
-    requestAnimationFrame(animate);
-  }
+      // Bounce and CLAMP so it never goes out of bounds
+      if (x <= 0) { x = 0; vx = Math.abs(vx); }
+      if (x >= maxX) { x = maxX; vx = -Math.abs(vx); }
+      if (y <= 0) { y = 0; vy = Math.abs(vy); }
+      if (y >= maxY) { y = maxY; vy = -Math.abs(vy); }
 
-  animate();
+      logo.style.left = x + "px";
+      logo.style.top = y + "px";
+
+      requestAnimationFrame(step);
+    }
+
+    // If viewport changes, force position back into bounds immediately
+    window.addEventListener("resize", () => {
+      const maxX = Math.max(0, window.innerWidth - logo.offsetWidth);
+      const maxY = Math.max(0, window.innerHeight - logo.offsetHeight);
+      x = Math.min(Math.max(0, x), maxX);
+      y = Math.min(Math.max(0, y), maxY);
+      logo.style.left = x + "px";
+      logo.style.top = y + "px";
+    });
+
+    requestAnimationFrame(step);
+  })();
 </script>
