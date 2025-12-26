@@ -27,12 +27,13 @@ navbar-links:
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
 ---
-<div id="dvd-screen" aria-label="Loading placeholder">
+<!-- DVD bouncing placeholder that DOES NOT cover your navbar, and hides the footer -->
+<div id="dvd-stage" aria-label="Loading placeholder">
   <div id="dvd-logo">DVD</div>
 </div>
 
 <style>
-  /* Hide common Jekyll theme footers WITHOUT touching nav/header */
+  /* Hide common Jekyll theme footers (navbar/header untouched) */
   footer,
   .site-footer,
   footer.site-footer,
@@ -41,14 +42,20 @@ navbar-links:
     display: none !important;
   }
 
-  #dvd-screen {
-    position: fixed;
-    inset: 0;
-    z-index: 999999; /* above theme content */
+  /* Stage sits BELOW the navbar; JS sets --navH dynamically */
+  :root { --navH: 0px; }
+
+  #dvd-stage{
+    position: relative;
+    width: 100%;
+    height: calc(100vh - var(--navH));
+    margin-top: 0;
     background: #0b0f17;
+    overflow: hidden;              /* critical: keeps logo inside bounds */
+    border-radius: 8px;            /* optional */
   }
 
-  #dvd-logo {
+  #dvd-logo{
     position: absolute;
     left: 0;
     top: 0;
@@ -67,43 +74,52 @@ navbar-links:
 
 <script>
   (function () {
-    const logo = document.getElementById("dvd-logo");
+    // 1) Compute navbar height so the stage begins BELOW it (navbar stays visible/clickable)
+    const navLike = document.querySelector(
+      "header, .site-header, .page-header, nav, .navbar, .top-nav, .masthead"
+    );
 
-    // Start position & velocity
-    let x = 30, y = 30;
+    function setNavHeight() {
+      const h = navLike ? Math.ceil(navLike.getBoundingClientRect().height) : 0;
+      document.documentElement.style.setProperty("--navH", h + "px");
+    }
+    setNavHeight();
+    window.addEventListener("resize", setNavHeight);
+
+    // 2) Hide footer(s) via JS too (helps if theme injects/overrides footer styles)
+    function removeFooters() {
+      document.querySelectorAll("footer, .site-footer, #footer, .page-footer").forEach(el => {
+        el.style.display = "none";
+      });
+    }
+    removeFooters();
+    // Run again shortly after load in case the theme renders late
+    window.addEventListener("load", () => setTimeout(removeFooters, 50));
+
+    // 3) Bounce the logo INSIDE the stage bounds (not the whole viewport)
+    const stage = document.getElementById("dvd-stage");
+    const logo  = document.getElementById("dvd-logo");
+
+    let x = 20, y = 20;
     let vx = 2.2, vy = 2.0;
 
     function step() {
-      const w = logo.offsetWidth;
-      const h = logo.offsetHeight;
+      const maxX = Math.max(0, stage.clientWidth  - logo.offsetWidth);
+      const maxY = Math.max(0, stage.clientHeight - logo.offsetHeight);
 
-      const maxX = Math.max(0, window.innerWidth - w);
-      const maxY = Math.max(0, window.innerHeight - h);
+      x += vx; y += vy;
 
-      x += vx;
-      y += vy;
-
-      // Bounce and CLAMP so it never goes out of bounds
-      if (x <= 0) { x = 0; vx = Math.abs(vx); }
-      if (x >= maxX) { x = maxX; vx = -Math.abs(vx); }
-      if (y <= 0) { y = 0; vy = Math.abs(vy); }
-      if (y >= maxY) { y = maxY; vy = -Math.abs(vy); }
+      // bounce + clamp
+      if (x <= 0)     { x = 0;    vx = Math.abs(vx); }
+      if (x >= maxX)  { x = maxX; vx = -Math.abs(vx); }
+      if (y <= 0)     { y = 0;    vy = Math.abs(vy); }
+      if (y >= maxY)  { y = maxY; vy = -Math.abs(vy); }
 
       logo.style.left = x + "px";
-      logo.style.top = y + "px";
+      logo.style.top  = y + "px";
 
       requestAnimationFrame(step);
     }
-
-    // If viewport changes, force position back into bounds immediately
-    window.addEventListener("resize", () => {
-      const maxX = Math.max(0, window.innerWidth - logo.offsetWidth);
-      const maxY = Math.max(0, window.innerHeight - logo.offsetHeight);
-      x = Math.min(Math.max(0, x), maxX);
-      y = Math.min(Math.max(0, y), maxY);
-      logo.style.left = x + "px";
-      logo.style.top = y + "px";
-    });
 
     requestAnimationFrame(step);
   })();
