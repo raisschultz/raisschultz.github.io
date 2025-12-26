@@ -34,7 +34,7 @@ navbar-links:
     <div id="dvd-logo" aria-hidden="true">DVD</div>
 
     <div id="video-box" aria-label="Embedded video">
-     <iframe title="Euroleague: Partizan Mozzart Bet Belgrade vs Maccabi Rapyd Tel Aviv Player" marginheight="0" marginwidth="0" src="https://embedsports.top/embed/charlie/partizan-mozzart-bet-belgrade-vs-maccabi-tel-aviv-1629472649/1" scrolling="no" allowfullscreen="yes" allow="encrypted-media; picture-in-picture;" width="100%" height="100%" frameborder="0"></iframe>
+     
     </div>
 
   </div>
