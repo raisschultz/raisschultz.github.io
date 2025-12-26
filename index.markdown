@@ -47,25 +47,7 @@ navbar-links:
 
     *{ box-sizing: border-box; }
     html, body { height: 100%; }
-
-    body{
-      margin: 0;
-      color: var(--text);
-      font: 500 16px/1.35 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      overflow: hidden;
-      background:
-        radial-gradient(1200px 800px at 10% 10%, #22306a 0%, transparent 55%),
-        radial-gradient(1100px 700px at 85% 20%, #6a2b5e 0%, transparent 55%),
-        linear-gradient(120deg, var(--bg1), var(--bg2));
-      background-size: 140% 140%;
-      animation: bgShift 8s ease-in-out infinite alternate;
-    }
-
-    @keyframes bgShift{
-      0%{ background-position: 0% 0%, 100% 0%, 0% 50%; }
-      100%{ background-position: 15% 20%, 80% 10%, 100% 50%; }
-    }
-
+    
     .wrap{
       height: 100%;
       display: grid;
@@ -81,38 +63,6 @@ navbar-links:
       border-radius: 22px;
       box-shadow: 0 20px 70px rgba(0,0,0,.45);
       padding: 28px 28px 22px;
-    }
-
-    .topline{
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 16px;
-      margin-bottom: 10px;
-    }
-
-    .pill{
-      font-size: 12px;
-      color: var(--muted);
-      border: 1px solid var(--ring);
-      background: rgba(255,255,255,.06);
-      border-radius: 999px;
-      padding: 6px 10px;
-      letter-spacing: .2px;
-    }
-
-    h1{
-      margin: 6px 0 8px;
-      font-size: clamp(28px, 4vw, 44px);
-      line-height: 1.05;
-      letter-spacing: -0.02em;
-    }
-
-    p{
-      margin: 0 0 18px;
-      color: var(--muted);
-      font-size: 15px;
-      max-width: 62ch;
     }
 
     .status{
@@ -133,11 +83,6 @@ navbar-links:
       animation: pulse 1.2s ease-out infinite;
     }
 
-    @keyframes pulse{
-      0%{ box-shadow: 0 0 0 0 rgba(255,255,255,.55); }
-      100%{ box-shadow: 0 0 0 14px rgba(255,255,255,0); }
-    }
-
     .bar{
       height: 10px;
       border-radius: 999px;
@@ -156,45 +101,13 @@ navbar-links:
       animation: load 1.4s ease-in-out infinite;
     }
 
-    @keyframes load{
-      0%{ transform: translateX(-120%); }
-      100%{ transform: translateX(260%); }
-    }
-
-    .card-footer{
-      display: flex;
-      justify-content: space-between;
-      gap: 14px;
-      margin-top: 18px;
-      color: rgba(255,255,255,.58);
-      font-size: 12px;
-    }
-
-    a{
-      color: rgba(255,255,255,.78);
-      text-decoration: none;
-      border-bottom: 1px dotted rgba(255,255,255,.35);
-    }
-
-    a:hover{ color: rgba(255,255,255,.95); }
-
-    @media (prefers-reduced-motion: reduce){
-      *{ animation: none !important; transition: none !important; }
-      body{ background-size: initial; }
-    }
   </style>
 </head>
 
 <body>
   <main class="wrap">
     <section class="card" aria-label="Placeholder">
-      <div class="topline">
-        <div class="pill" id="timestamp">Updated just now</div>
-        <div class="pill">In Progress</div>
       </div>
-
-      <h1>Site in progress.</h1>
-      <p>This homepage is intentionally minimal while I build out the full layout and content. Check back soon.</p>
 
       <div class="status">
         <span class="dot" aria-hidden="true"></span>
@@ -202,10 +115,7 @@ navbar-links:
       </div>
 
       <div class="bar" aria-label="Loading indicator"><span></span></div>
-
-      <div class="card-footer">
-        <span>© <span id="year"></span></span>
-        <span><a href="#" onclick="return false;">raisschultz.github.io</a></span>
+     
       </div>
     </section>
   </main>
@@ -226,10 +136,6 @@ navbar-links:
       statusEl.textContent = statuses[i];
     }, 1400);
 
-    const now = new Date();
-    document.getElementById("year").textContent = now.getFullYear();
-    document.getElementById("timestamp").textContent =
-      "Updated " + now.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
   </script>
 </body>
 </html>
