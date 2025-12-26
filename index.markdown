@@ -27,40 +27,55 @@ navbar-links:
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
 ---
-<div id="loading">
-  <div class="spinner" aria-label="Loading" role="status"></div>
-  <div class="text">Loading…</div>
+<div id="screen">
+  <div id="dvd">DVD</div>
 </div>
 
 <style>
-  html, body{
-    height:100%;
-    margin:0;
+  html, body {
+    margin: 0;
+    height: 100%;
+    background: #0b0f17;
+    overflow: hidden;
   }
-  #loading{
-    height:100%;
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    justify-content:center;
-    gap:12px;
-    background:#0b0f17;
-    color:#e8eefc;
-    font:16px/1.4 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+
+  #screen {
+    position: relative;
+    width: 100%;
+    height: 100%;
   }
-  .spinner{
-    width:36px;
-    height:36px;
-    border:4px solid rgba(232,238,252,.25);
-    border-top-color:#e8eefc;
-    border-radius:50%;
-    animation:spin 1s linear infinite;
-  }
-  @keyframes spin{
-    to{ transform:rotate(360deg); }
-  }
-  .text{
-    opacity:.85;
-    letter-spacing:.2px;
+
+  #dvd {
+    position: absolute;
+    font: 700 28px/1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    color: #e8eefc;
+    padding: 10px 14px;
+    border: 2px solid #e8eefc;
+    border-radius: 4px;
+    user-select: none;
   }
 </style>
+
+<script>
+  const dvd = document.getElementById("dvd");
+
+  let x = 50, y = 50;
+  let vx = 2, vy = 2;
+
+  function animate() {
+    const rect = dvd.getBoundingClientRect();
+    const maxX = window.innerWidth - rect.width;
+    const maxY = window.innerHeight - rect.height;
+
+    x += vx;
+    y += vy;
+
+    if (x <= 0 || x >= maxX) vx *= -1;
+    if (y <= 0 || y >= maxY) vy *= -1;
+
+    dvd.style.transform = `translate(${x}px, ${y}px)`;
+    requestAnimationFrame(animate);
+  }
+
+  animate();
+</script>
