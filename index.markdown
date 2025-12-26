@@ -26,5 +26,41 @@ navbar-links:
     - Research Proposal: "https://raisschultz.github.io/research/pedestrianinfrastructureproposal/"
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
-
 ---
+<div id="loading">
+  <div class="spinner" aria-label="Loading" role="status"></div>
+  <div class="text">Loading…</div>
+</div>
+
+<style>
+  html, body{
+    height:100%;
+    margin:0;
+  }
+  #loading{
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:12px;
+    background:#0b0f17;
+    color:#e8eefc;
+    font:16px/1.4 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  }
+  .spinner{
+    width:36px;
+    height:36px;
+    border:4px solid rgba(232,238,252,.25);
+    border-top-color:#e8eefc;
+    border-radius:50%;
+    animation:spin 1s linear infinite;
+  }
+  @keyframes spin{
+    to{ transform:rotate(360deg); }
+  }
+  .text{
+    opacity:.85;
+    letter-spacing:.2px;
+  }
+</style>
