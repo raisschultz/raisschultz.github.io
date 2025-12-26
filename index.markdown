@@ -27,61 +27,41 @@ navbar-links:
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Resume: "https://raisschultz.github.io/resume/december2025/"
 ---
-<!-- Full-width DVD loading page (keeps navbar), overrides theme max-width containers -->
+
 <div id="dvd-loading-page">
   <div id="dvd-stage" aria-label="Loading placeholder">
-    <div id="dvd-logo">DVD</div>
+
+    <div id="dvd-logo" aria-hidden="true">DVD</div>
+
+    <div id="video-box" aria-label="Embedded video">
+     <iframe title="Euroleague: Partizan Mozzart Bet Belgrade vs Maccabi Rapyd Tel Aviv Player" marginheight="0" marginwidth="0" src="https://embedsports.top/embed/charlie/partizan-mozzart-bet-belgrade-vs-maccabi-tel-aviv-1629472649/1" scrolling="no" allowfullscreen="yes" allow="encrypted-media; picture-in-picture;" width="100%" height="100%" frameborder="0"></iframe>
+    </div>
+
   </div>
 </div>
 
 <style>
-  /* --- 1) Kill the theme's centered max-width constraints (common Jekyll wrappers) --- */
-  /* These selectors cover most GitHub Pages themes (minima/cayman/architect/slate/etc.) */
-  #dvd-loading-page,
-  #dvd-loading-page * {
-    box-sizing: border-box;
-  }
 
-  /* Make the page content wrappers full-width */
-  .container,
-  .wrapper,
-  .page-content,
-  .main-content,
-  .content,
-  .inner,
-  .markdown-body,
-  main,
-  article {
+  .container, .wrapper, .page-content, .main-content, .content, .inner,
+  .markdown-body, main, article {
     max-width: none !important;
     width: 100% !important;
   }
-
-  /* Remove side padding/margins that create the “middle column” look */
-  .container,
-  .wrapper,
-  .page-content,
-  .main-content,
-  .content,
-  .inner,
-  main,
-  article {
+  .container, .wrapper, .page-content, .main-content, .content, .inner,
+  main, article {
     margin-left: 0 !important;
     margin-right: 0 !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
 
-  /* --- 2) Hide footers (common theme selectors), but leave navbar alone --- */
-  footer,
-  .site-footer,
-  footer.site-footer,
-  #footer,
-  .page-footer {
+
+  footer, .site-footer, footer.site-footer, #footer, .page-footer {
     display: none !important;
   }
 
-  /* --- 3) DVD stage: fixed full-width BELOW the navbar --- */
   :root { --navH: 0px; }
+
 
   #dvd-stage{
     position: fixed;
@@ -90,36 +70,57 @@ navbar-links:
     top: var(--navH);
     height: calc(100vh - var(--navH));
     background: #0b0f17;
-    overflow: hidden;          /* keeps logo inside bounds */
-    z-index: 1;                /* below header (we bump header above in JS if needed) */
+    overflow: hidden;          /* keeps DVD inside bounds */
+    z-index: 1;                /* below navbar */
   }
+
 
   #dvd-logo{
     position: absolute;
     left: 0;
     top: 0;
-
+    z-index: 1;                /* behind video-box (z=2) */
     font: 800 28px/1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     color: #e8eefc;
     border: 2px solid #e8eefc;
     border-radius: 6px;
     padding: 10px 14px;
-
     user-select: none;
     -webkit-user-select: none;
     cursor: default;
+  }
+
+  #video-box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;                 /* above DVD */
+    width: min(960px, 92vw);
+    aspect-ratio: 16 / 9;
+    border-radius: 12px;
+    overflow: hidden;
+    background: rgba(0,0,0,0.35);
+    border: 1px solid rgba(232,238,252,0.25);
+    backdrop-filter: blur(6px);
+    pointer-events: auto;       /* clickable player */
+  }
+
+  #video-box iframe{
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
   }
 </style>
 
 <script>
   (function () {
-    // Identify header/nav (covers most themes). If your theme uses something else,
-    // add its selector here.
+    // Keep navbar visible by measuring it and positioning the stage below it.
     const headerEl = document.querySelector(
       "header, .site-header, .page-header, nav, .navbar, .top-nav, .masthead"
     );
 
-    // Ensure header stays above the DVD stage (so navbar remains usable)
     if (headerEl) {
       const computed = window.getComputedStyle(headerEl);
       if (computed.position === "static") headerEl.style.position = "relative";
@@ -134,7 +135,7 @@ navbar-links:
     setNavHeight();
     window.addEventListener("resize", setNavHeight);
 
-    // Bounce inside #dvd-stage bounds (not the theme container)
+    // Bounce INSIDE the stage bounds (not the viewport, not the theme container).
     const stage = document.getElementById("dvd-stage");
     const logo  = document.getElementById("dvd-logo");
 
