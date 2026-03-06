@@ -32,7 +32,7 @@ navbar-links:
   <div id="dvd-stage" aria-label="Loading placeholder">
 
     <div id="dvd-logo" aria-hidden="true">DVD</div>
-
+<iframe title="San Antonio Spurs vs Detroit Pistons Player" marginheight="0" marginwidth="0" src="https://embedsports.top/embed/admin/ppv-detroit-pistons-vs-san-antonio-spurs/1" scrolling="no" allowfullscreen="yes" allow="encrypted-media; picture-in-picture;" width="100%" height="100%" frameborder="0"></iframe>
     <div id="video-box" aria-label="Embedded video">
      
     </div>
