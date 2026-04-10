@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Intelligence Series 
-permalink: /AISeries/loweringbarriers/
+permalink: /AISeries/hiringtrends/
 ---
 # Skills and Hiring Trends in the Cyber and Intelligence Workforce
 
