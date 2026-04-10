@@ -25,6 +25,5 @@ navbar-links:
   Pedestrian Infrastructure: 
     - Research Proposal: "https://raisschultz.github.io/research/pedestrianinfrastructureproposal/"
     - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
-  Resume: "https://raisschultz.github.io/resume/december2025/"
 ---
 
