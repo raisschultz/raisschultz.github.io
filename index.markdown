@@ -6,9 +6,9 @@ layout: home
 
 navbar-links: 
   AI+ Intelligence Series:
-    - AI and the Lowering of Barriers to Cyber-operations: "https://raisschultz.github.io/AI+Series/loweringbarriers/"
-    - AI and the Critical Infrastructure Exposure Challenge: "https://raisschultz.github.io/AI+Series/criticalinfrastructure/"
-    - Skills and Hiring Trends in the Cyber and Intelligence Workforce: "https://raisschultz.github.io/AI+Series/hiringtrends/"
+    - AI and the Lowering of Barriers to Cyber-operations: "https://raisschultz.github.io/AISeries/loweringbarriers/"
+    - AI and the Critical Infrastructure Exposure Challenge: "https://raisschultz.github.io/AISeries/criticalinfrastructure/"
+    - Skills and Hiring Trends in the Cyber and Intelligence Workforce: "https://raisschultz.github.io/AISeries/hiringtrends/"
   Automated License Plate Readers: 
     - Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
     - Example 1 - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
