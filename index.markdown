@@ -8,6 +8,7 @@ navbar-links:
   AI+ Intelligence Series:
     - AI and the Lowering of Barriers to Cyber-operations: "https://raisschultz.github.io/AISeries/loweringbarriers/"
     - AI and the Critical Infrastructure Exposure Challenge: "https://raisschultz.github.io/AISeries/criticalinfrastructure/"
+    - AI, Cognitive Warfare, and the Battle for Information Integrity: "https://raisschultz.github.io/AISeries/cognitivewarfare/"
     - Skills and Hiring Trends in the Cyber and Intelligence Workforce: "https://raisschultz.github.io/AISeries/hiringtrends/"
   Automated License Plate Readers: 
     - Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
