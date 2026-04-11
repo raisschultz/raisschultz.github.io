@@ -26,7 +26,7 @@ permalink: /AISeries/cognitivewarfare/
     <a href="#Propaganda">The Risk of Counter-Cognitive Warfare Becoming Propaganda</a>
   </li>
   <li>
-    <a href="#Conclusion"></a>
+    <a href="#Conclusion">Strategic Implications: Information Integrity as a National Security Requirement</a>
   </li>
 </ul>
 
