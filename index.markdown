@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # THIS IS THE HOME PAGE. 
 layout: home  
-title: Index // About Me (below)  
+title: Index // About Me    
 navbar-links: 
   AI+ Intelligence Series:
     - AI and the Lowering of Barriers to Cyber-operations: "https://raisschultz.github.io/AISeries/loweringbarriers/"
