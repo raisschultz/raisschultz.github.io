@@ -38,7 +38,7 @@ I have spent most of my life traveling and living abroad.
 I've traveled to 48 countries across Europe and Asia, and lived in 11.   
 I spent my teenage years living in Japan and attending a British school and I completed high school during the CoVID-19 pandemic at the Leysin American School in Switzerland.    
 I developed interests in technology, harm reduction and psychopharmacology, and politics. I originally attended college at the University of Amsterdam pursuing a degree in Political Science, however I was forced to withdraw and return to the US due to medical reasons.   
-Amidst the international political turmoil at the end of the pandemic, the sudden rise in artificial intelligence and the increasing role of technology in shaping the future of politics and international relations, and I decided to pivot into studying cybersecurity.   
+Amidst the international political turmoil at the end of the pandemic, and the sudden rise in artificial intelligence and the increasing role of technology in shaping the future of politics and international relations, I decided to pivot into studying cybersecurity.   
 I'm interested in careers and advancement in cybersecurity, project management, and ultimately transitioning my technical skills and experience into a role where I can shape and drive technical policy and governance.  
 
 In my free time, I enjoy staying active, as well as nerding out on video games, board games and fantasy books.   
