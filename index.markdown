@@ -10,6 +10,13 @@ navbar-links:
     - AI and the Critical Infrastructure Exposure Challenge: "https://raisschultz.github.io/AISeries/criticalinfrastructure/"
     - AI, Cognitive Warfare, and the Battle for Information Integrity: "https://raisschultz.github.io/AISeries/cognitivewarfare/"
     - Skills and Hiring Trends in the Cyber and Intelligence Workforce: "https://raisschultz.github.io/AISeries/hiringtrends/"
+  Case Studies: 
+    - Equifax: "https://raisschultz.github.io/casestudies/Equifax/"
+    - Stuxnet: "https://raisschultz.github.io/casestudies/Stuxnet/"
+    - FireEye: "https://raisschultz.github.io/casestudies/FireEye/"
+  Pedestrian Infrastructure: 
+    - Research Proposal: "https://raisschultz.github.io/research/pedestrianinfrastructureproposal/"
+    - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
   Automated License Plate Readers: 
     - Introduction: "https://raisschultz.github.io/projectALPR/introduction/"
     - Example 1 - Flock Cameras: "https://raisschultz.github.io/projectALPR/flockalprs/"
@@ -22,13 +29,6 @@ navbar-links:
     - A Deontological Perspective on ALPRs: "https://raisschultz.github.io/projectALPR/deontologicallens"
     - Proposed Changes and Improvements: "https://raisschultz.github.io/projectALPR/proposedchanges/"
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
-  Case Studies: 
-    - Equifax: "https://raisschultz.github.io/casestudies/Equifax/"
-    - Stuxnet: "https://raisschultz.github.io/casestudies/Stuxnet/"
-    - FireEye: "https://raisschultz.github.io/casestudies/FireEye/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
-  Pedestrian Infrastructure: 
-    - Research Proposal: "https://raisschultz.github.io/research/pedestrianinfrastructureproposal/"
-    - Poster: "https://raisschultz.github.io/research/pedestrianinfrastructureposter/"
 ---
 
