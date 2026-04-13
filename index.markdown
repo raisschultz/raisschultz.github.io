@@ -2,8 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # THIS IS THE HOME PAGE. 
-layout: home
-
+layout: home  
+title: Index // About Me (below)  
 navbar-links: 
   AI+ Intelligence Series:
     - AI and the Lowering of Barriers to Cyber-operations: "https://raisschultz.github.io/AISeries/loweringbarriers/"
@@ -31,8 +31,6 @@ navbar-links:
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
 ---
-# Index // About Me (below)
-
 ## Projects are hosted on the site and can be access through the navigation bar at the top-
 
 *(04/26)* AI+ Intelligence Series: collection of independent reports written after attending SCSP AI+ Intelligence Summit 
