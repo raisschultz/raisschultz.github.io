@@ -31,7 +31,9 @@ navbar-links:
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
 ---
-## Projects are hosted on the site and can be access through the navigation bar at the top.  
+# Index // About Me (below)
+
+## Projects are hosted on the site and can be access through the navigation bar at the top-
 
 *(04/26)* AI+ Intelligence Series: collection of independent reports written after attending SCSP AI+ Intelligence Summit 
   
@@ -43,7 +45,7 @@ navbar-links:
 
 *(05/21)* Extended Essay: political analysis of Kurdish autonomous region of Iraq written as part of International Baccaleaureate   
 
-# Biography: 
+## Biography: 
 
 I am a student at George Mason University. I am pursuing a Bachelor's in Applied Science in Cybersecurity and a Masters in Digital Forensics.   
 I have spent most of my life traveling and living abroad.    
