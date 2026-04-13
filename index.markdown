@@ -31,6 +31,18 @@ navbar-links:
     - Bibliography: "https://raisschultz.github.io/projectALPR/bibliography/"
   Extended Essay: "https://raisschultz.github.io/IB/ee/"
 ---
+## Projects are hosted on the site and can be access through the navigation bar at the top.  
+
+*(04/26)* AI+ Intelligence Series: collection of independent reports written after attending SCSP AI+ Intelligence Summit 
+  
+*(11/25)* Case Studies: collection of IT-focused case studies written as part of IT429: Security Accreditation of Information Systems
+
+*(11/25)* Pedestrian Infrastructure: research proposal for a method of analysing and improving pedestrian infrastructure; developed in course of Honors College curriculum
+
+*(11/25)* Automated License Plate Readers: presentation and ethical analysis of automated license plate reader technology developed as part of IT304: IT in the Global Economy
+
+*(05/21)* Extended Essay: political analysis of Kurdish autonomous region of Iraq written as part of International Baccaleaureate   
+
 # Biography: 
 
 I am a student at George Mason University. I am pursuing a Bachelor's in Applied Science in Cybersecurity and a Masters in Digital Forensics.   
@@ -47,16 +59,6 @@ Some of my favorite video games include Hearthstone, and Path of Exile.
 Some of my favorite fantasy series' are works from Brandon Sanderson's Cosmere and Steven Erikson's Malazan Book of the Fallen.   
 I love animals, and enjoy observing and interacting with the squirrels, birds and cats of the neighbourhood.   
 
-### Projects are hosted on the site and can be access through the navigation bar at the top.  
 
-*(04/26)* AI+ Intelligence Series: collection of independent reports written after attending SCSP AI+ Intelligence Summit 
-  
-*(11/25)* Case Studies: collection of IT-focused case studies written as part of IT429: Security Accreditation of Information Systems
-
-*(11/25)* Pedestrian Infrastructure: research proposal for a method of analysing and improving pedestrian infrastructure; developed in course of Honors College curriculum
-
-*(11/25)* Automated License Plate Readers: presentation and ethical analysis of automated license plate reader technology developed as part of IT304: IT in the Global Economy
-
-*(05/21)* Extended Essay: political analysis of Kurdish autonomous region of Iraq written as part of International Baccaleaureate
 
 
